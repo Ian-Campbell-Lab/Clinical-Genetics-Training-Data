@@ -1,0 +1,735 @@
+StringID	ParticipantCount	Text	Term	Negated	Spans
+000f780da593b746a7cc4753de22a2ce	1	MOUTH: Mildly high arched palate. Normal lips and tongue.	HP:0000218	NA	14-32
+000f780da593b746a7cc4753de22a2ce	1	MOUTH: Mildly high arched palate. Normal lips and tongue.	HP:0030809	X	34-40,50-56
+000f780da593b746a7cc4753de22a2ce	1	MOUTH: Mildly high arched palate. Normal lips and tongue.	HP:0000159	X	34-45
+001d6c29f4e6ab6d37e2a4b0b84db25c	5	EYES: Prominent infraorbital creases.	HP:0100876	NA	6-36
+018fa5440489fec2f79b944c77c14a2b	1	EYES: Mild epicanthus, mild up-slant	HP:0000286	NA	11-21
+018fa5440489fec2f79b944c77c14a2b	1	EYES: Mild epicanthus, mild up-slant	HP:0000582	NA	0-4,23-36
+028ec43d4e6aabeac24997ad73c4b4e0	1	NEUROLOGIC: cooperative with exam and follows all instructions in both English and Spanish.	NA	NA	NA
+033f7020c6330defb4a15d018bf8634e	1	EYES: Bluish hue to sclerae.	HP:0000592	NA	6-27
+0345bde9f1b49a75228256f8d45ecd54	1	EARS: Somewhat crumped appearance of the ears	HP:0009901	NA	0-4,15-22
+039fd9cc8b369630224720c622305d57	1	HANDS FEET: Pes Planus	HP:0001763	NA	12-22
+048e125ed3e80bdd0fe9158e84686c88	1	CARDIAC: Loud systolic murmur	HP:0031664	NA	14-29
+050343224a11ccf9d1765af454194306	1	NAILS HAIR SKIN: normal nails. Hypertrichosis of shoulders and temporal region	HP:0000998	NA	31-45
+050343224a11ccf9d1765af454194306	1	NAILS HAIR SKIN: normal nails. Hypertrichosis of shoulders and temporal region	HP:0002219	NA	31-45,63-78
+050343224a11ccf9d1765af454194306	1	NAILS HAIR SKIN: normal nails. Hypertrichosis of shoulders and temporal region	HP:0001597	X	17-29
+05e04caed7bea08c9dc112c4a9af2082	1	EYES: normal brows and lashes, mild hooding, slight epicanthus	HP:0000286	NA	52-62
+05e04caed7bea08c9dc112c4a9af2082	1	EYES: normal brows and lashes, mild hooding, slight epicanthus	HP:0000534	X	6-18
+05e04caed7bea08c9dc112c4a9af2082	1	EYES: normal brows and lashes, mild hooding, slight epicanthus	HP:0000499	X	6-12,23-29
+05e04caed7bea08c9dc112c4a9af2082	1	EYES: normal brows and lashes, mild hooding, slight epicanthus	HP:0030820	NA	0-4,36-43
+0604f751275118b36c6ba978121d0c32	1	NAILS HAIR SKIN: scars on axillary lines bilaterally	HP:0100699	NA	17-22
+063793e003f1cfc8ac17d23a9e18ed17	1	EARS: Thick helices.	HP:0000391	NA	6-19
+063ca6b80f43f44e9e634313ecf30474	1	GENERAL: Active around the room.	NA	NA	NA
+06835d763de6a26b9886de9bfcc66d5f	1	NEUROLOGIC: Low tone, significant head lag	HP:0032988	NA	34-42
+06835d763de6a26b9886de9bfcc66d5f	1	NEUROLOGIC: Low tone, significant head lag	HP:0001252	NA	12-20
+0689279eb59f1a8ce7b8e70dc342c17b	1	GENITALIA: Curved penis, chordee. Undescended testicles.	HP:0030263	NA	11-23
+0689279eb59f1a8ce7b8e70dc342c17b	1	GENITALIA: Curved penis, chordee. Undescended testicles.	HP:0008689	NA	34-55
+0689279eb59f1a8ce7b8e70dc342c17b	1	GENITALIA: Curved penis, chordee. Undescended testicles.	HP:0000041	NA	25-32
+0691bad7f6cddd0603f23d3dc595bbf4	1	HANDS FEET: Metatarus adductus of the feet bilaterally.	HP:0001840	NA	12-30
+078430ce52d08b4f2fed07769432b2fb	1	EARS: Low-set, posteriorly rotated ears with pointed superior helix noted on the left ear only	HP:0000368	NA	6-39
+078430ce52d08b4f2fed07769432b2fb	1	EARS: Low-set, posteriorly rotated ears with pointed superior helix noted on the left ear only	HP:0011039	NA	45-67
+0804df2112a91ec2965d2af4af9fe510	1	MOUTH: white plaque under the tongue, no obvious erosions	HP:0002745	NA	7-36
+0804df2112a91ec2965d2af4af9fe510	1	MOUTH: white plaque under the tongue, no obvious erosions	HP:0031446	X	0-6,38-40,49-57
+08249078b3a5ec30cde73179a90eef35	1	EXTREMITIES: Contractures most prominently of the fingers and wrists; bilateral talipes equinovarus. Mild contractures of the b/l elbows, normal range of motion of the hips, shoulders and knees.	HP:0001776	NA	70-99
+08249078b3a5ec30cde73179a90eef35	1	EXTREMITIES: Contractures most prominently of the fingers and wrists; bilateral talipes equinovarus. Mild contractures of the b/l elbows, normal range of motion of the hips, shoulders and knees.	HP:0002987	NA	106-136
+08249078b3a5ec30cde73179a90eef35	1	EXTREMITIES: Contractures most prominently of the fingers and wrists; bilateral talipes equinovarus. Mild contractures of the b/l elbows, normal range of motion of the hips, shoulders and knees.	HP:0001239	NA	13-25,62-68
+08249078b3a5ec30cde73179a90eef35	1	EXTREMITIES: Contractures most prominently of the fingers and wrists; bilateral talipes equinovarus. Mild contractures of the b/l elbows, normal range of motion of the hips, shoulders and knees.	HP:0012785	NA	13-25,43-57
+088bc6b73373c58ceffd80f87743bc4f	1	NAILS HAIR SKIN: 1 brown macule on right scapula	HP:0001034	NA	19-31
+096a0fd7fd544843930d6647a5014395	1	MOUTH: The palate is highly arched	HP:0000218	NA	11-34
+09e52535cb5fc35f0e84eacd13755dbb	1	EYES: Downslanting palpebral fissures	HP:0000494	NA	6-37
+09f0c11881a2ca66a79f6d8bd9cd2782	1	EXTREMITIES: Subtle to mild generalized joint hypermobility.	HP:0001382	NA	40-59
+0b248fdc4ad0f082725f18472829f188	1	MOUTH: lateral incisors slightly pointed	HP:0006342	NA	7-40
+0b37c5c76a2b1e13bb180486f7de8eaa	1	GENERAL: Asleep, but arousable	NA	NA	NA
+0c84c616810b4985a054a71f71cb4c41	1	EYES: vertically narrow palpebral fissures; flared lateral brows	HP:0045025	NA	17-42
+0cc20334bf669aaef2ade7fc87cf3c7d	1	EYES: Hooded lids.	HP:0030820	NA	6-17
+0d1a41be3f13978374ba95eb847625e9	1	NOSE: Broad and high nasal bridge; mild anteversion of nares	HP:0000431	NA	6-11,21-33
+0d1a41be3f13978374ba95eb847625e9	1	NOSE: Broad and high nasal bridge; mild anteversion of nares	HP:0000426	NA	16-33
+0d1a41be3f13978374ba95eb847625e9	1	NOSE: Broad and high nasal bridge; mild anteversion of nares	HP:0000463	NA	40-60
+0e9835eeb30f6c4fd4cfdec0967af9ee	1	GENITALIA: Not examined. (Normal previously)	NA	NA	NA
+0f1f7c877741fa4626d0a5cff69d5e50	1	ABDOMEN: Small umbilical hernia. Mild distention. Soft.	HP:0001537	NA	15-31
+0f1f7c877741fa4626d0a5cff69d5e50	1	ABDOMEN: Small umbilical hernia. Mild distention. Soft.	HP:0003270	NA	0-7,38-48
+0f4b073d695f7ba6fa68d37fd9587520	1	EARS: Thin helix over left ear, prominent earlobes	HP:0009905	NA	6-16
+0f4b073d695f7ba6fa68d37fd9587520	1	EARS: Thin helix over left ear, prominent earlobes	HP:0009748	NA	32-50
+1046c5c0655fa4a86c20ed3668e3215c	1	HANDS FEET: Proximal placement of right 5th toe. Right hand 5th digit clinodactyly; left hand under IV board	HP:0010344	NA	12-47
+1046c5c0655fa4a86c20ed3668e3215c	1	HANDS FEET: Proximal placement of right 5th toe. Right hand 5th digit clinodactyly; left hand under IV board	HP:0004209	NA	55-82
+113ddf50938e6a32e8b9aed13226daf4	1	SPINE: a little more fullness on right mid-back	NA	NA	NA
+11a00647b4164b7100d04b068f0b87a6	1	MOUTH: Asymmetry of lower alveolar ridge	HP:0009941	NA	7-40
+11ecd071cc6dc24e7f0fd3643a91600e	1	ABDOMEN: Umbilical line in place.	NA	NA	NA
+133d55f9af25e1ac0bde4e38eb45a9f7	1	HEAD: Full hair	HP:0100874	NA	6-15
+137c9ea9584f422abeef0e245dddbc0c	1	NECK: Mild amount of excess nuchal skin appreciated. No webbing, cysts, or pits observed.	HP:0005989	NA	21-39
+137c9ea9584f422abeef0e245dddbc0c	1	NECK: Mild amount of excess nuchal skin appreciated. No webbing, cysts, or pits observed.	HP:0000465	X	0-4,53-63
+137c9ea9584f422abeef0e245dddbc0c	1	NECK: Mild amount of excess nuchal skin appreciated. No webbing, cysts, or pits observed.	HP:0009796	X	0-4,53-55,65-70
+13edeb90fdd88fd500da8abf94d1235a	1	EARS: Large appearing and posteriorly rotated but not lowset. Left ear with cupped appearance. Posterior ear creases bilaterally.	HP:0000400	NA	0-4,6-21
+13edeb90fdd88fd500da8abf94d1235a	1	EARS: Large appearing and posteriorly rotated but not lowset. Left ear with cupped appearance. Posterior ear creases bilaterally.	HP:0000358	NA	0-4,26-45
+13edeb90fdd88fd500da8abf94d1235a	1	EARS: Large appearing and posteriorly rotated but not lowset. Left ear with cupped appearance. Posterior ear creases bilaterally.	HP:0000378	NA	67-93
+13edeb90fdd88fd500da8abf94d1235a	1	EARS: Large appearing and posteriorly rotated but not lowset. Left ear with cupped appearance. Posterior ear creases bilaterally.	HP:0031510	NA	95-116
+158d9625584d07c25253ca26feaa786d	6	CHEST: wide spaced nipples	HP:0006610	NA	7-26
+15c6f4ab08ffcb5ceec22ce5b97f0b5b	1	MOUTH: teeth with some caps	NA	NA	NA
+1617ae7a3dd119a2fb96f2829cb641ce	1	HANDS FEET: Mild clinodactyly on left hand.	HP:0040019	NA	17-42
+17127cccb26c741f880fe103e62e0b81	1	MOUTH: Decreased cupid's bow. Short philtrum. Wide-spaced upper incisors.	HP:0000322	NA	30-44
+17127cccb26c741f880fe103e62e0b81	1	MOUTH: Decreased cupid's bow. Short philtrum. Wide-spaced upper incisors.	HP:0001566	NA	46-72
+17127cccb26c741f880fe103e62e0b81	1	MOUTH: Decreased cupid's bow. Short philtrum. Wide-spaced upper incisors.	HP:0002263	X	7-28
+1739d32b2be14a375e72d53c9f9363d0	1	GENITALIA: no labial hypoplasia	HP:0000066	X	11-31
+17c024de89838eeebc3bcbb692811366	1	HANDS FEET: 3rd toes medially displaced bilaterally	NA	NA	NA
+1a0305ca450e7b04ade2d712d2b840a0	1	NOSE: normal bridge	HP:0000422	X	0-4,6-19
+1a5b44c5171ab99c0217b741c4cbee24	1	CHEST: With supernumerary nipple below the right nipple.	HP:0002558	NA	12-32
+1b3e4d42d5683e8a9e34f96db9346d52	1	NOSE: Slightly flat nasal bridge. Difficult to fully assess due to facial edema.	HP:0005280	NA	15-32
+1b3e4d42d5683e8a9e34f96db9346d52	1	NOSE: Slightly flat nasal bridge. Difficult to fully assess due to facial edema.	HP:0000282	NA	67-79
+1bc1301f7973ab1f32c4c60f276a5c7b	7	EYES: sparse eyebrows	HP:0045075	NA	6-21
+1ccdbd3100e46b39c90eca70273bc0ce	1	HEAD: Head wrapped, so difficult to assess skull shape and fontanelles	NA	NA	NA
+1d196dcbfeff6961b58e6cae1297b897	1	HANDS FEET: L clinodactyly; unable to examine R hand	HP:0040019	NA	12-26,48-52
+1d681e4b4d41502056757938e670f8a4	1	HEAD: slightly overriding sutures with small anterior fontanelle	HP:0000237	NA	39-64
+1d681e4b4d41502056757938e670f8a4	1	HEAD: slightly overriding sutures with small anterior fontanelle	HP:0010823	NA	15-33
+1e3fc44e23167bc61d425f6d1f966061	1	GENERAL: well developed, well nourished, no acute distress	NA	NA	NA
+1e5046b374188957683ebcf1308e0351	1	EYES: Eyelid hooding.	HP:0030820	NA	6-20
+1f3e08bb54fabe74b952f27ee218bbaa	1	NOSE: normal nasal bridge, broad tip	HP:0000455	NA	0-4,27-36
+1f3e08bb54fabe74b952f27ee218bbaa	1	NOSE: normal nasal bridge, broad tip	HP:0000422	X	6-25
+1f7732657656a8550d6f55c2a68d6a98	1	CHEST: Well-healed sternotomy scar.	HP:0100699	NA	30-34
+1fc288109515c02e4ae180e815ea25e3	1	ABDOMEN: mildly distended	HP:0003270	NA	0-7,16-25
+2011c130bb115d37613d486ce901c55f	1	NAILS HAIR SKIN: 2 hyperpigmented macules: one on upper left chest, one on middle right chest. One hypopigmented macule on right neck. 1.5 cm hemangioma of the central back.	HP:0001034	NA	19-41
+2011c130bb115d37613d486ce901c55f	1	NAILS HAIR SKIN: 2 hyperpigmented macules: one on upper left chest, one on middle right chest. One hypopigmented macule on right neck. 1.5 cm hemangioma of the central back.	HP:0020073	NA	99-119
+2011c130bb115d37613d486ce901c55f	1	NAILS HAIR SKIN: 2 hyperpigmented macules: one on upper left chest, one on middle right chest. One hypopigmented macule on right neck. 1.5 cm hemangioma of the central back.	HP:0001028	NA	142-152
+203047b5fb6c9cca1ac8d0b132b8fc3e	1	CHEST: Subjectively wide-spaced nipples	HP:0006610	NA	20-39
+206a333c81539fd5a9026a65852010ca	1	MOUTH: Prefers to hold mouth open. Prominent lower lip.	HP:0000194	NA	23-33
+206a333c81539fd5a9026a65852010ca	1	MOUTH: Prefers to hold mouth open. Prominent lower lip.	HP:0000179	NA	35-54
+20dbff9744cb1342682a933a8242ea18	1	EYES: Long thick eyelashes with thick eyebrows	HP:0000574	NA	32-46
+20dbff9744cb1342682a933a8242ea18	1	EYES: Long thick eyelashes with thick eyebrows	HP:0000527	NA	6-10,17-26
+20dbff9744cb1342682a933a8242ea18	1	EYES: Long thick eyelashes with thick eyebrows	HP:0011231	NA	11-26
+2174230cc71fea22297197c68fa38219	1	ABDOMEN: Umbilical lines in place, no supra umbilical raphe	HP:0410276	X	35-59
+236792c4eaa86ec8f4a28d7203d3ed24	1	HANDS FEET: Persistent fetal finger pads. Palm length 8.5cm (80%). Middle finger length 5.75cm (50%). Foot length 18.5cm (50%).	HP:0001212	NA	12-40
+237c28d5f02607e6efabb4e147e04a51	1	GENERAL APPEARANCE: Patient in mild respiratory distress with audible stridor when placed in supine position. Makes eye contact with examiner and tracks.	NA	NA	NA
+23d209a89ec1b2d4a38f082b2dccc016	1	NAILS HAIR SKIN: hypertrichosis of face/scalp; hypoplastic nails; [PERSONALNAME] upper chest (pictures) and L forearm; mongolian spot sacrum	HP:0002219	NA	17-39
+23d209a89ec1b2d4a38f082b2dccc016	1	NAILS HAIR SKIN: hypertrichosis of face/scalp; hypoplastic nails; [PERSONALNAME] upper chest (pictures) and L forearm; mongolian spot sacrum	HP:0001792	NA	47-64
+23d209a89ec1b2d4a38f082b2dccc016	1	NAILS HAIR SKIN: hypertrichosis of face/scalp; hypoplastic nails; [PERSONALNAME] upper chest (pictures) and L forearm; mongolian spot sacrum	HP:0100814	NA	119-133
+240dc6e1683222df2d700331dd2cd62b	2	HANDS FEET: Broad thumbs	HP:0011304	NA	12-24
+2619f1b0ae545eb59cc2eee00682d0c6	1	EARS: low set ears; overfolded L helix	HP:0000369	NA	6-18
+2619f1b0ae545eb59cc2eee00682d0c6	1	EARS: low set ears; overfolded L helix	HP:0000396	NA	20-38
+26def7d8b3807496ecddfbf0e758f17e	1	NEUROLOGIC: Not able to follow commands.	NA	NA	NA
+270f5f5cc5c671734bad1c5e201dcfcc	1	GENERAL: Alert, active, cooperative child	NA	NA	NA
+27b18b5c3906b0037c719aa04e6c819d	1	HANDS FEET: no syndactyly, nodule on the 5th fingers bilaterally	HP:0001159	X	12-25
+27b18b5c3906b0037c719aa04e6c819d	1	HANDS FEET: no syndactyly, nodule on the 5th fingers bilaterally	HP:0200036	NA	27-33
+281e31ca37f6b150a58920e5cdaf6c64	1	FACE: Hard to examine 2/2 edema	HP:0000969	NA	26-31
+2832d5a78d78a197cf59a2840f1945ff	2	FACE: No coarse facial features.	HP:0000280	X	6-31
+29420f9cc328c51d5406d62c34915e1b	1	HANDS FEET: Right hand: scarring between 3 and 4; Left hand: scarring between 2 and 3. 2,3 syndactyly bilaterally in feet. Top of right foot feels fuller than left.	HP:0100699	NA	24-32
+29420f9cc328c51d5406d62c34915e1b	1	HANDS FEET: Right hand: scarring between 3 and 4; Left hand: scarring between 2 and 3. 2,3 syndactyly bilaterally in feet. Top of right foot feels fuller than left.	HP:0100699	NA	61-69
+29420f9cc328c51d5406d62c34915e1b	1	HANDS FEET: Right hand: scarring between 3 and 4; Left hand: scarring between 2 and 3. 2,3 syndactyly bilaterally in feet. Top of right foot feels fuller than left.	HP:0004691	NA	87-121
+29420f9cc328c51d5406d62c34915e1b	1	HANDS FEET: Right hand: scarring between 3 and 4; Left hand: scarring between 2 and 3. 2,3 syndactyly bilaterally in feet. Top of right foot feels fuller than left.	HP:0001760	NA	123-153
+298ac33a17ce972da35e7e56429b96f4	1	ABDOMEN: Previously noted umbilical hernia is not present. Previously noted diastasis recti is not present.	HP:0001537	X	26-57
+298ac33a17ce972da35e7e56429b96f4	1	ABDOMEN: Previously noted umbilical hernia is not present. Previously noted diastasis recti is not present.	HP:0001540	X	76-106
+2acbbd7ac575d966513edf5fb70752a0	1	EYES: Thin eyebrows. Normal lids and lashes.	HP:0045074	NA	6-19
+2acbbd7ac575d966513edf5fb70752a0	1	EYES: Thin eyebrows. Normal lids and lashes.	HP:0000492	X	0-4,21-32
+2acbbd7ac575d966513edf5fb70752a0	1	EYES: Thin eyebrows. Normal lids and lashes.	HP:0000499	X	0-4,21-27,37-43
+2b68f8b8c75e6a21b10d35d987fc02f7	2	GENITALIA: No freckling.	HP:0001480	X	11-23
+2c191dd5c62c70748656966624f5f136	2	HEAD: mild trigonocephaly	HP:0000243	NA	11-25
+2c30f7468aa18f352a6eac712447db65	1	MOUTH: High palate. Normal teeth.	HP:0000218	NA	7-18
+2c30f7468aa18f352a6eac712447db65	1	MOUTH: High palate. Normal teeth.	HP:0000164	X	20-32
+2c81475dbe02bdaf093bb05a64685e24	4	NECK: short neck	HP:0000470	NA	6-16
+2cf25c39f875e921d5cdf2db47007291	1	SPINE: Assymetry of the shoulders with mild thoracolumbar scoliosis.	HP:0002944	NA	44-67
+2e0381a702910d472b8afca69e93f7d2	1	GENERAL APPEARANCE: Anxious appearing	HP:0000739	NA	20-27
+2e6b616f490ccb5238da2a4ce831d9f8	1	EXTREMITIES: leg length discrepancy (right shorter than left)	HP:0100559	NA	13-35
+2f0ac7e3b018df1ece99c870dd1b2382	1	NAILS HAIR SKIN: very light capillary malformation over left extremity and trunk; round shaped red mark on right shoulder (looks like bite mark?)	HP:0025104	NA	28-50
+2f279f315b001ace7faf722b2fca0f40	1	MOUTH: top incisors have spaces between them	HP:0001566	NA	7-44
+2f614debb087529884e8d5a2d2a9fd89	1	GENITALIA: temperature probe in anus	NA	NA	NA
+2fe266c9163248bb17bfa9a6900d0892	1	MOUTH: thin upper lip, normal tongue, normal palate	HP:0000219	NA	7-21
+2fe266c9163248bb17bfa9a6900d0892	1	MOUTH: thin upper lip, normal tongue, normal palate	HP:0030809	X	23-36
+2fe266c9163248bb17bfa9a6900d0892	1	MOUTH: thin upper lip, normal tongue, normal palate	HP:0000174	X	38-51
+32899dfc48164345a3421c4310a2ac5b	1	HEAD: Difficult to appreciate given EEG leads covering her head.	NA	NA	NA
+33643b5ff5ad6a523203830c91fd34e2	1	FACE: mild malar hypoplasia	HP:0000272	NA	11-27
+338c7632f3d0378aeeb5db77408fb124	1	MOUTH: microstomia with high, narrow palate """"""""""""""""V"""""""""""""""" shaped	HP:0000160	NA	7-18
+338c7632f3d0378aeeb5db77408fb124	1	MOUTH: microstomia with high, narrow palate """"""""""""""""V"""""""""""""""" shaped	HP:0002705	NA	24-43
+33b178ecffbb05edd6758c34f06f426c	1	NEUROLOGIC: Hypertonia with contractures of the bilateral ankles. No clonus could be elicited. DTRs otherwise 2+. No dysmetria on finger to nose.	HP:0001276	NA	12-22
+33b178ecffbb05edd6758c34f06f426c	1	NEUROLOGIC: Hypertonia with contractures of the bilateral ankles. No clonus could be elicited. DTRs otherwise 2+. No dysmetria on finger to nose.	HP:0006466	NA	28-64
+33b178ecffbb05edd6758c34f06f426c	1	NEUROLOGIC: Hypertonia with contractures of the bilateral ankles. No clonus could be elicited. DTRs otherwise 2+. No dysmetria on finger to nose.	HP:0002169	X	66-75
+33b178ecffbb05edd6758c34f06f426c	1	NEUROLOGIC: Hypertonia with contractures of the bilateral ankles. No clonus could be elicited. DTRs otherwise 2+. No dysmetria on finger to nose.	HP:0001310	X	114-126
+33c4b8a1df43a7df2bc446e266c31e30	1	GENERAL APPEARANCE: generalized edema; sedated and intubated	HP:0007430	NA	20-37
+340bbfc6ab6ea7f1a707c5fceca3428a	1	MOUTH: Normal lips and philtrum, intubated.	HP:0000159	X	7-18
+340bbfc6ab6ea7f1a707c5fceca3428a	1	MOUTH: Normal lips and philtrum, intubated.	HP:0000288	X	7-13,23-31
+34a570f6a6119b51aef493b6a7b478c8	1	GENITALIA: Tanner III-IV.	NA	NA	NA
+3552dc3aeef8ffc7a117e5e1f68f4a33	1	EARS: Right ear posteriorly rotated, thin superior helices bilateral	HP:0000358	NA	12-35
+3552dc3aeef8ffc7a117e5e1f68f4a33	1	EARS: Right ear posteriorly rotated, thin superior helices bilateral	HP:0009905	NA	37-58
+35ec8c5322bc7cb0647eaca22c0c6022	1	CHEST: Very narrow thorax.	HP:0000774	NA	12-25
+363b43ed6846bcb0c2186e7270e5db1d	1	HEAD: Small anterior fontanelle open, soft, and flat.	HP:0000237	NA	6-31
+3652fbefb662a3287884eef8f4f5fc9d	1	MOUTH: dimpled chin	HP:0010751	NA	7-19
+36558335dadb953f580d8be4d35b8f70	4	HEAD: Prominent forehead	HP:0011220	NA	6-24
+368939872b53b73b48d3b0ca7f9bc2d7	1	HANDS FEET: as above	NA	NA	NA
+372517985157d0a19bd74defc76e9daf	1	HEAD: Mild scaphocephaly and relative macrocephaly	HP:0030799	NA	11-24
+372517985157d0a19bd74defc76e9daf	1	HEAD: Mild scaphocephaly and relative macrocephaly	HP:0004482	NA	29-50
+3792975bb5ad1af9fb646bd5f2723475	2	CARDIAC: 3/6 systolic murmur	HP:0031664	NA	13-28
+3a330dadf8f0f066feba1e375b9c9558	1	EARS: small ears with overfolded helices.	HP:0008551	NA	6-16
+3a330dadf8f0f066feba1e375b9c9558	1	EARS: small ears with overfolded helices.	HP:0000396	NA	22-40
+3a7aa63c1075868f26b97ce3780f3d3d	1	EYES: Eyes appear to be swollen either due to proptosis or volume overload	HP:0011105	NA	59-74
+3a7aa63c1075868f26b97ce3780f3d3d	1	EYES: Eyes appear to be swollen either due to proptosis or volume overload	HP:0000520	NA	46-55
+3ae00af57cb4890b2ddffa2271bb4d0d	1	EARS: posteriorly rotated, thickened helices	HP:0000358	NA	0-4,6-25
+3ae00af57cb4890b2ddffa2271bb4d0d	1	EARS: posteriorly rotated, thickened helices	HP:0000391	NA	27-44
+3b07505c1c68ac5544da9ceb0d126d9d	1	EYES: mild periorbital fullness; sparse eyebrows bilaterally	HP:0000629	NA	11-31
+3b07505c1c68ac5544da9ceb0d126d9d	1	EYES: mild periorbital fullness; sparse eyebrows bilaterally	HP:0045075	NA	33-48
+3bd21bc3f8f191694a696cd039f11bf8	1	NAILS HAIR SKIN: Small ~1mm hyperpigmented, non-raised lesion consisent with cafe au lait spot on R anterior chest medial to R nipple/mammary line.	HP:0000957	NA	77-94
+3c1dbd6ecd2abb9918cdad584e2f2681	1	GENITALIA: no inguinal freckling	HP:0030052	X	11-32
+3c38aeb4e84b4f734f603b2b327bfc90	1	MOUTH: Right upper front tooth deviated posteriorly.	HP:0006330	NA	19-51
+3c40d74bf16dd183f0c9759ae8972a51	1	HANDS FEET: R palm length- 9.1, R middle finger- 6.7	NA	NA	NA
+3cdf9facd4d23c962d67c60867d73fad	1	NEUROLOGIC: Awake, alert, and smiles at examiner with subtle asymmetry of mouth corners. Tone appropriate with minimal head lag and no slip-through. Picks head up when prone. Symmetric Moro. Moves all extremities antigravity with age-appropriate strength.	HP:0009941	NA	54-87
+3cdf9facd4d23c962d67c60867d73fad	1	NEUROLOGIC: Awake, alert, and smiles at examiner with subtle asymmetry of mouth corners. Tone appropriate with minimal head lag and no slip-through. Picks head up when prone. Symmetric Moro. Moves all extremities antigravity with age-appropriate strength.	HP:0003808	X	89-105
+3d5cf2381bde29d031b77674958c4c39	1	MOUTH: Tongue thrusting, no macroglossia.	HP:0100703	NA	7-23
+3d5cf2381bde29d031b77674958c4c39	1	MOUTH: Tongue thrusting, no macroglossia.	HP:0000158	X	25-40
+3d748b842c930d7b5e87df4b0e4b26d7	1	HEAD: Slightly receded hairline. Anterior fontanelle open with palpable fullness but not taught.	HP:0009553	NA	15-31
+3e5b237118727c7d64f88c38eba8f585	1	HANDS FEET: Clinodactyly of the 5th finger bilaterally	HP:0004209	NA	12-43
+3f6e2cbad31a1cb445d62d8d08d30647	2	HANDS FEET: Pes planus bilaterally.	HP:0001763	NA	12-22
+3f6ed961cb1b0f67a2b8424efc72357c	1	EXTREMITIES: Right arm in blue cast, left arm in no-no. Grossly normal limb lengths and porportions. No obvious joint laxity.	HP:0100555	X	64-99
+3f6ed961cb1b0f67a2b8424efc72357c	1	EXTREMITIES: Right arm in blue cast, left arm in no-no. Grossly normal limb lengths and porportions. No obvious joint laxity.	HP:0002761	X	101-124
+3fa997563606668e2ea64036af820dea	1	HANDS FEET: tapered/hypoplastic distal aspect of 5th digit bilateral hands	HP:0004227	NA	20-31,49-58
+3fa997563606668e2ea64036af820dea	1	HANDS FEET: tapered/hypoplastic distal aspect of 5th digit bilateral hands	HP:0001182	NA	12-19,49-58
+40246975f66a736ae4aa619b0bf8beca	1	NEUROLOGIC: not talkative	NA	NA	NA
+4102367fbcd73a764d05b65b56872111	1	HEAD: Triangular hairline, large open lesion covering most of the scalp resembling cutis aplasia.  Overriding sutures	HP:0009553	NA	6-25
+4102367fbcd73a764d05b65b56872111	1	HEAD: Triangular hairline, large open lesion covering most of the scalp resembling cutis aplasia.  Overriding sutures	HP:0007385	NA	83-96
+41a2741df21383e7f6f8f7c9cb4902b5	1	EXTREMITIES: walks with ankle inversion, bilaterally, but no dystonia or spasticity.	HP:0001883	NA	24-39
+41a2741df21383e7f6f8f7c9cb4902b5	1	EXTREMITIES: walks with ankle inversion, bilaterally, but no dystonia or spasticity.	HP:0001332	X	58-69
+41a2741df21383e7f6f8f7c9cb4902b5	1	EXTREMITIES: walks with ankle inversion, bilaterally, but no dystonia or spasticity.	HP:0001257	X	58-60,73-83
+41c82bd9f0e738cedbea6cb58f540e21	1	FACE: Obvious asymmetry, left eye remains open throughout exam	HP:0000324	NA	0-4,14-23
+4344d2a1b350049197dd63fe9eb1365d	1	MOUTH: no telangiectases	HP:0001009	X	7-24
+4349580d1f5c1487dc86a7c1b4fc6be6	1	EARS: Right ear with two, fleshy preauricular tags, one associated with the tragus.	HP:0000384	NA	33-50
+44b2cf2637ffc93c21fc670509f07644	1	SPINE: Sacral dimple with easily visualized base and no hair tuft.	HP:0000960	NA	7-20
+44b2cf2637ffc93c21fc670509f07644	1	SPINE: Sacral dimple with easily visualized base and no hair tuft.	HP:0031283	X	53-65
+45aec7a241c3cc5428a4a4b0a067b5e1	1	HEAD: low anterior hairline with frontal upsweep	HP:0000294	NA	6-27
+45aec7a241c3cc5428a4a4b0a067b5e1	1	HEAD: low anterior hairline with frontal upsweep	HP:0002236	NA	33-48
+45e9a08cb2c8a089b2ccf4b688a2d068	1	SPINE: mild scoliosis	HP:0002650	NA	12-21
+4606dce84449b99acea8c484d0f1ae88	2	MOUTH: prominent philtrum	HP:0002002	NA	7-25
+4628e0b17f1722c4c42f48e809687ad9	1	HANDS FEET: bilateral clinodactyly	HP:0030084	NA	22-34
+46692a4f1e8e2df6f71ce3c31d964475	1	HANDS FEET: Bilateral 5th digits notable for one crease only. Sandal gap bilaterally.	HP:0001852	NA	62-72
+46692a4f1e8e2df6f71ce3c31d964475	1	HANDS FEET: Bilateral 5th digits notable for one crease only. Sandal gap bilaterally.	HP:0006216	NA	22-60
+46b8e4e0c347b50506f0f66480db52e3	1	ABDOMEN: Large reducible umbilical hernia.	HP:0001537	NA	25-41
+46d757f2cf6328bcc75bbce38f964610	1	EARS: mildly low set ears with bilateral overfolded helix	HP:0000369	NA	13-25
+46d757f2cf6328bcc75bbce38f964610	1	EARS: mildly low set ears with bilateral overfolded helix	HP:0000396	NA	41-57
+47f8cbd721ec3cad67bbeff8c52d3a86	1	ABDOMEN: +umbilical hernia	HP:0001537	NA	9-26
+48d5a5383c6bd4f53f9bfa582bd0e87f	1	GENITALIA: Tanner stage 2-3.	NA	NA	NA
+49ca2e28bd866592d64b43edc75d026d	1	HEAD: No frontal bossingNormal shape of the head	HP:0002007	X	6-24
+49ca2e28bd866592d64b43edc75d026d	1	HEAD: No frontal bossingNormal shape of the head	HP:0002648	X	24-48
+49f940158ced8b4d7da93bea4625455b	3	CARDIAC: +murmur	HP:0030148	NA	0-7,9-16
+4a5fc817e50d977cfb5e048481363767	1	NEUROLOGIC: Difficult to elicit DTRs throughout.	NA	NA	NA
+4af66bc299ccd0355f29303019d2b34e	1	MOUTH: Severe micrognathia. No lip pits.	HP:0000347	NA	14-26
+4af66bc299ccd0355f29303019d2b34e	1	MOUTH: Severe micrognathia. No lip pits.	HP:0100267	X	28-39
+4b672cb470e3bf8f8cab04e171c227af	1	NEUROLOGIC: Left side worse than right. No clonus appreciated.	HP:0002169	X	40-49
+4be56277ab6a79b4887cf16d48ba8912	1	GENERAL APPEARANCE: Intermittently irritable. High pitched cry.	HP:0000737	NA	35-44
+4be56277ab6a79b4887cf16d48ba8912	1	GENERAL APPEARANCE: Intermittently irritable. High pitched cry.	HP:0025430	NA	46-62
+4c45e959ce7ca33fe11ca7aea2e70024	1	CHEST: slightly narrow thorax	HP:0000774	NA	16-29
+4c5f7c2a950316ba5b98dc004f118fef	1	HANDS FEET: Left 1-2 incomplete syndactyly, 2nd finger clinodactyly, decreased in length and bulk of the left arm, Normal variant toe syndactyly 2-3-4 bilaterally	HP:0010714	NA	130-162
+4c5f7c2a950316ba5b98dc004f118fef	1	HANDS FEET: Left 1-2 incomplete syndactyly, 2nd finger clinodactyly, decreased in length and bulk of the left arm, Normal variant toe syndactyly 2-3-4 bilaterally	HP:0040022	NA	44-67
+4c5f7c2a950316ba5b98dc004f118fef	1	HANDS FEET: Left 1-2 incomplete syndactyly, 2nd finger clinodactyly, decreased in length and bulk of the left arm, Normal variant toe syndactyly 2-3-4 bilaterally	HP:0001159	NA	32-42
+4c5f7c2a950316ba5b98dc004f118fef	1	HANDS FEET: Left 1-2 incomplete syndactyly, 2nd finger clinodactyly, decreased in length and bulk of the left arm, Normal variant toe syndactyly 2-3-4 bilaterally	HP:0100560	NA	69-113
+4c6276f20fb0b47448d4566193cea1f8	1	NOSE: anteverted nares; NG in left nare	HP:0000463	NA	6-22
+4c6276f20fb0b47448d4566193cea1f8	1	NOSE: anteverted nares; NG in left nare	HP:0040288	NA	24-39
+4c7d9831a9bf2587df2d315dc3f271f3	7	CHEST: Wide-spaced nipples	HP:0006610	NA	7-26
+4d5c40c339dc36725868b98ea5241a44	1	EARS:   stahl  ear bilaterally	HP:0100015	NA	8-18
+4d7d14e78ec827948322877af798f051	1	HEAD: Large vein on R forehead	HP:0001043	NA	6-19,22-30
+4e838e8591401489e3143a4594755c50	2	EARS: bilateral posterior ear crease	HP:0031510	NA	16-36
+4e83be8fa7eefec2efe630622993a331	1	HEAD: Mild plagiocephaly.	HP:0001357	NA	11-24
+4ef934c3001896e8576e6860c1281d2e	1	HANDS FEET: Broad hands with short fingers. Bilateral reducible talipes, feet appear short.	HP:0001169	NA	12-23
+4ef934c3001896e8576e6860c1281d2e	1	HANDS FEET: Broad hands with short fingers. Bilateral reducible talipes, feet appear short.	HP:0009381	NA	29-42
+4ef934c3001896e8576e6860c1281d2e	1	HANDS FEET: Broad hands with short fingers. Bilateral reducible talipes, feet appear short.	HP:0001883	NA	64-71
+4ef934c3001896e8576e6860c1281d2e	1	HANDS FEET: Broad hands with short fingers. Bilateral reducible talipes, feet appear short.	HP:0001773	NA	73-77,85-90
+4f0856b4292438f490b5cee0af437ef9	1	ABDOMEN: Slight R>L Abdominal wall, small umbilical hernia	HP:0001537	NA	42-58
+4f0856b4292438f490b5cee0af437ef9	1	ABDOMEN: Slight R>L Abdominal wall, small umbilical hernia	HP:0004298	NA	20-34,52-58
+4f40b208c761ea50fe734fade1dc99d5	1	HANDS FEET: arachnodactyly on fingers/toes; overriding 2nd toe of left foot; rockerbottom appearance of both feet R more so than left	HP:0001166	NA	12-26
+4f40b208c761ea50fe734fade1dc99d5	1	HANDS FEET: arachnodactyly on fingers/toes; overriding 2nd toe of left foot; rockerbottom appearance of both feet R more so than left	HP:0001845	NA	44-62
+4f40b208c761ea50fe734fade1dc99d5	1	HANDS FEET: arachnodactyly on fingers/toes; overriding 2nd toe of left foot; rockerbottom appearance of both feet R more so than left	HP:0001838	NA	77-113
+4f54a1636fc8ca10744985f098bd6580	1	HANDS FEET: 4th toes curve under the 3rd bilaterally.	HP:0010374	NA	12-40
+4fc9a4b0c9e4fcfda382c5a17353b932	1	NEUROLOGIC: DIfficult to assess - moving extremities and grasping	NA	NA	NA
+4ffadcd13f74268fc0e15f1b47d1ae10	1	NOSE: Flat, short nasal bridge with mildly anteverted nares	HP:0000463	NA	43-59
+4ffadcd13f74268fc0e15f1b47d1ae10	1	NOSE: Flat, short nasal bridge with mildly anteverted nares	HP:0003194	NA	12-30
+4ffadcd13f74268fc0e15f1b47d1ae10	1	NOSE: Flat, short nasal bridge with mildly anteverted nares	HP:0000457	NA	6-10,18-30
+50450b08a9c7b02a0b3672b1cb4ad69d	1	FACE: Midfacial flattening.	HP:0011800	NA	6-26
+508895ad5098f19199f96c83e288953c	1	CHEST: normally spaced nipples	HP:0006610	X	7-30
+5149a95f01aad8e1d828cdf55fb05893	8	NOSE: wide nasal bridge	HP:0000431	NA	6-23
+52a481862ce663fe21242e3d421f07f3	1	EARS: Over folded helix bilaterally with 2x ear tags on left	HP:0000384	NA	44-52
+52a481862ce663fe21242e3d421f07f3	1	EARS: Over folded helix bilaterally with 2x ear tags on left	HP:0000396	NA	6-23
+52a622b150a5af27a1914ce9f82bdee4	1	EARS: Low set and posterior rotated	HP:0000368	NA	0-4,6-35
+52de501c90985f0328ead1e205b99ae2	1	GENITALIA: TS1.	NA	NA	NA
+531202667c43c32256a784355266cb02	1	MOUTH: small red lesion on lips; normal shape to lips, intact palate	HP:0030350	NA	7-23
+531202667c43c32256a784355266cb02	1	MOUTH: small red lesion on lips; normal shape to lips, intact palate	HP:0000159	X	33-53
+531202667c43c32256a784355266cb02	1	MOUTH: small red lesion on lips; normal shape to lips, intact palate	HP:0000175	X	55-68
+53a1c885b0328c3f3ed13f81f2a4bf9d	1	EYES: Wide-set eyes	HP:0000316	NA	6-19
+53fe70ff1fadb2199b0bdfcacc16386d	1	EARS: overfolded and squared off L ear; redundant auricular cartilage and Stahl deformity R ear	HP:0000396	NA	6-16,35-38
+53fe70ff1fadb2199b0bdfcacc16386d	1	EARS: overfolded and squared off L ear; redundant auricular cartilage and Stahl deformity R ear	HP:0100015	NA	74-79,92-95
+53fe70ff1fadb2199b0bdfcacc16386d	1	EARS: overfolded and squared off L ear; redundant auricular cartilage and Stahl deformity R ear	HP:0030026	NA	21-32,35-38
+53fe70ff1fadb2199b0bdfcacc16386d	1	EARS: overfolded and squared off L ear; redundant auricular cartilage and Stahl deformity R ear	HP:0008608	NA	40-69
+563d066964335d009176266c2ad11f70	1	HEAD: temporal narrowing	HP:0000341	NA	6-24
+5655823ff9424d941a16dec6f0b7a2a8	1	EARS: Posteriorly rotated with overfolded helicies bilaterally.	HP:0000358	NA	0-4,6-25
+5655823ff9424d941a16dec6f0b7a2a8	1	EARS: Posteriorly rotated with overfolded helicies bilaterally.	HP:0000396	NA	31-50
+584e4b9acb603c40e4e5b3f92015b54b	1	ABDOMEN: Small umbilical herna.	HP:0001537	NA	15-30
+59525af022024b9e3eb96ab8ed67ab39	1	HEAD: Mild posterior plagiocephally.	HP:0011327	NA	11-35
+59753e3c7e42a11dffbefaee0ba95ed4	1	HEAD: Mild dolichocephaly. Posterior plagiocephaly.	HP:0000268	NA	11-25
+59753e3c7e42a11dffbefaee0ba95ed4	1	HEAD: Mild dolichocephaly. Posterior plagiocephaly.	HP:0011327	NA	27-50
+598fd7531a20bf3629cd43bde3b39f05	1	FACE: Swollen and cushingoid face with flat midface.	HP:0011800	NA	39-51
+598fd7531a20bf3629cd43bde3b39f05	1	FACE: Swollen and cushingoid face with flat midface.	HP:0000282	NA	6-13,29-33
+598fd7531a20bf3629cd43bde3b39f05	1	FACE: Swollen and cushingoid face with flat midface.	HP:0500011	NA	18-33
+59d61a064ccf215a967d74109b34fdca	1	EYES: Disconjugate gaze	HP:0000549	NA	6-23
+5b2573a1982918b3d46d512bad471267	1	EXTREMITIES: right lower extremity with scar, dilated veins on posterior right leg, well healed scar, nodular firm area posterior knee	HP:0100699	NA	40-44
+5b2573a1982918b3d46d512bad471267	1	EXTREMITIES: right lower extremity with scar, dilated veins on posterior right leg, well healed scar, nodular firm area posterior knee	HP:0001015	NA	46-59
+5b2573a1982918b3d46d512bad471267	1	EXTREMITIES: right lower extremity with scar, dilated veins on posterior right leg, well healed scar, nodular firm area posterior knee	HP:0200036	NA	102-120
+5ba5c5daa895055efdb12161b9ed84d6	1	NEUROLOGIC: Central hypotonia	HP:0008936	NA	12-29
+5bf3b37b97e69d9e0e84f91b039022a4	1	NEUROLOGIC: Low Tone, with head lag	HP:0001252	NA	12-20
+5bf3b37b97e69d9e0e84f91b039022a4	1	NEUROLOGIC: Low Tone, with head lag	HP:0032988	NA	27-35
+5c2f2cb11b45fc06b2147d24bcbdd185	1	GENITALIA: minimal pubic hair.	NA	NA	NA
+5c397f37ea7f4af3e8f79a1005ad6f7a	1	SPINE: slight scoliosis	HP:0002650	NA	14-23
+5e7051592cf9297740a9f53b7994ecfb	1	MOUTH: Small mouth. Teeth anteriorly placed in the gums. Wide spaced teeth. High arched palate.	HP:0000160	NA	7-18
+5e7051592cf9297740a9f53b7994ecfb	1	MOUTH: Small mouth. Teeth anteriorly placed in the gums. Wide spaced teeth. High arched palate.	HP:0000692	NA	20-43
+5e7051592cf9297740a9f53b7994ecfb	1	MOUTH: Small mouth. Teeth anteriorly placed in the gums. Wide spaced teeth. High arched palate.	HP:0000687	NA	57-74
+5e7051592cf9297740a9f53b7994ecfb	1	MOUTH: Small mouth. Teeth anteriorly placed in the gums. Wide spaced teeth. High arched palate.	HP:0000218	NA	76-94
+5ef17635a610c74a09410d6d8e0bc82d	1	EYES: Pinpoint pupils, reactive.	HP:0000616	NA	6-21
+602f7d8d69808158af6ef203af1b9289	1	FACE: elongated face; flattened midface	HP:0000276	NA	6-20
+602f7d8d69808158af6ef203af1b9289	1	FACE: elongated face; flattened midface	HP:0011800	NA	22-39
+615583df4a89092d3338fc7580ad68e1	1	SPINE: Small sacral dimple with an undefined base.	HP:0000960	NA	13-26
+616a5103582ad0d3efc1a10457a06688	2	HANDS FEET: long fingers	HP:0100807	NA	12-24
+633b99eb59757e8fe216321f0e67619e	1	GENITALIA: Exam deferred	NA	NA	NA
+636c4a514a52608a3e2a4539f7af83c8	2	GENITALIA: anteriorly placed anus	HP:0001545	NA	11-33
+6385ab57db4226171516e516f4b7164f	1	HEAD: Unable to evaluate scalp due to EEG leads. Prior head measurement indicates possible macrocephaly, unable to assess at this time.	HP:0000256	NA	91-103
+63d2ff7e1a8fd5fab55b1712ce4adab4	1	HANDS FEET: Left hand post-axial polydactyly. Right 4th toe with hypoplasia of distal phalanx.	HP:0001162	NA	17-44
+63d2ff7e1a8fd5fab55b1712ce4adab4	1	HANDS FEET: Left hand post-axial polydactyly. Right 4th toe with hypoplasia of distal phalanx.	HP:0100390	NA	52-93
+643a49ffe7e0724e41a24e1930218fd9	3	EYES: wide-spaced eyes	HP:0000316	NA	6-22
+64e32dce62e9d282e072b22d5bbc8f8f	1	MOUTH: Fewer adult teeth than expected with wide spacing and some pointing of incisors. See photo in electronic health record.	HP:0000687	NA	19-24,39-56
+64e32dce62e9d282e072b22d5bbc8f8f	1	MOUTH: Fewer adult teeth than expected with wide spacing and some pointing of incisors. See photo in electronic health record.	HP:0000677	NA	7-38
+64e32dce62e9d282e072b22d5bbc8f8f	1	MOUTH: Fewer adult teeth than expected with wide spacing and some pointing of incisors. See photo in electronic health record.	HP:0011065	NA	66-86
+65456c4e338fddbb8de206baf8f4ab6f	1	EXTREMITIES: Bilateral talipes equinovarus, left is irreducible, right is postural and reducible	HP:0001776	NA	13-42
+6724364363d2d11881ca5f55d4fd6842	1	CARDIAC: Pale in color.	HP:0000980	NA	9-22
+672e5399043ec3b42faae982704b4898	3	NOSE: broad nasal bridge and tip	HP:0000431	NA	6-24
+672e5399043ec3b42faae982704b4898	3	NOSE: broad nasal bridge and tip	HP:0000455	NA	6-17,29-32
+6750a9fea2d90e19a2eff34ce1042fdb	1	HEAD: relative microcephaly compared to length	HP:0000252	NA	15-27
+677d58ee88accde51fdc38ed382f04c6	2	HANDS FEET: Mild 2,3,4 toe syndactyly bilaterally.	HP:0010714	NA	17-37
+67a78acb0e37e564000e3ce9f8d365d4	2	NEUROLOGIC: + head lag	NA	NA	NA
+67ee29a916ea771ee9639264da87cd65	1	NAILS HAIR SKIN: Nevus flammeus on back of neck and forehead.	HP:0007616	NA	17-47
+67ee29a916ea771ee9639264da87cd65	1	NAILS HAIR SKIN: Nevus flammeus on back of neck and forehead.	HP:0007413	NA	17-31,52-60
+68ff68d93e6f591928d697e662cb4252	1	HANDS FEET: Persistent fetal finger pads.	HP:0001212	NA	12-40
+698d6e58e097aa121a5ec022d8f25b8b	1	EXTREMITIES: More skin creases over right thigh compared to left, leg asymmetry	HP:0100559	NA	66-79
+6aa1f90e985a287e2d61e02dd3115425	1	NAILS HAIR SKIN: Multiple hemangioma on posterior skull, suprapubic, right abdomen, anterior thigh, posterior thigh, right shin	HP:0001028	NA	26-36
+6c8ff1873e903474e2867c962a455043	1	HANDS FEET: 5th toes folds under the 4th	HP:0001845	NA	12-40
+6ccaff848042615f26cc2bbf94a7dce8	1	EYES: Bilateral ptosis, wearing glasses.	HP:0001488	NA	6-22
+6ccaff848042615f26cc2bbf94a7dce8	1	EYES: Bilateral ptosis, wearing glasses.	HP:0000539	NA	24-39
+6d1f3431cddbef00a001d6b3693e20ea	1	NEUROLOGIC: Little conversation, does understand some commands.	NA	NA	NA
+6ef46c261cbe22ae5e131d1b58e349cc	1	GENITALIA: short and broad labia	HP:0000058	NA	11-32
+6fe7c379f41e6f866d465782d0a106da	1	NOSE: broad nose	HP:0000445	NA	6-16
+6ffa62b03e8155e81112c009e598c8e2	1	NAILS HAIR SKIN: palms and soles have thicker skin with peeling, nails seem normal, hair normal, scalp with mild scaling, dermal melanocytosis on right shoulder, buttocks, back	HP:0001072	NA	38-50
+6ffa62b03e8155e81112c009e598c8e2	1	NAILS HAIR SKIN: palms and soles have thicker skin with peeling, nails seem normal, hair normal, scalp with mild scaling, dermal melanocytosis on right shoulder, buttocks, back	HP:0001597	X	65-82
+6ffa62b03e8155e81112c009e598c8e2	1	NAILS HAIR SKIN: palms and soles have thicker skin with peeling, nails seem normal, hair normal, scalp with mild scaling, dermal melanocytosis on right shoulder, buttocks, back	HP:0001595	X	84-95
+6ffa62b03e8155e81112c009e598c8e2	1	NAILS HAIR SKIN: palms and soles have thicker skin with peeling, nails seem normal, hair normal, scalp with mild scaling, dermal melanocytosis on right shoulder, buttocks, back	HP:0100814	NA	122-142
+6ffa62b03e8155e81112c009e598c8e2	1	NAILS HAIR SKIN: palms and soles have thicker skin with peeling, nails seem normal, hair normal, scalp with mild scaling, dermal melanocytosis on right shoulder, buttocks, back	HP:0040189	NA	46-63
+71119dc9e9a2faf121bc9c1afefd1698	1	EYES: Prominence of the infraorbital creases.	HP:0100876	NA	6-44
+72cfc10144deb6da60f597aba2636343	9	EYES: hooding	HP:0030820	NA	0-4,6-13
+72f39eef382b6ff5d966ed5f54d912d4	2	SPINE: Thoracolumbar scoliosis.	HP:0002944	NA	7-30
+73979f35b5232687a40c972358a9fa5e	1	EARS: Low set bilaterally.	HP:0000369	NA	0-4,6-13
+73a810ac85ab7667caa827420f96a9a2	1	EYES: Long eyelashes, mild epicanthus	HP:0000527	NA	6-20
+73a810ac85ab7667caa827420f96a9a2	1	EYES: Long eyelashes, mild epicanthus	HP:0000286	NA	27-37
+73d0f48703ae73d07b4205963dfe1417	1	MOUTH: microstomia with high arched, narrow palate	HP:0000160	NA	7-18
+73d0f48703ae73d07b4205963dfe1417	1	MOUTH: microstomia with high arched, narrow palate	HP:0002705	NA	24-50
+747b9515a1fcd2259361a418fbe492eb	1	NECK: low posterior hair line	HP:0002162	NA	6-29
+7572d5f6a78ddeca3f2ed0370a7989ca	1	MOUTH: long philtrum with tenting of the upper lip, thin upper lip, normal palate	HP:0000343	NA	7-20
+7572d5f6a78ddeca3f2ed0370a7989ca	1	MOUTH: long philtrum with tenting of the upper lip, thin upper lip, normal palate	HP:0010804	NA	26-50
+7572d5f6a78ddeca3f2ed0370a7989ca	1	MOUTH: long philtrum with tenting of the upper lip, thin upper lip, normal palate	HP:0000174	X	68-81
+7572d5f6a78ddeca3f2ed0370a7989ca	1	MOUTH: long philtrum with tenting of the upper lip, thin upper lip, normal palate	HP:0000219	NA	52-66
+764bc9e422292f66d6838ee9e959b428	1	HEAD: prominent forehead; HC 49.75 (~70%)	HP:0011220	NA	6-24
+76513adac30b43f44aa44f591d4fd1f8	1	EARS: Somewhat low set ears	HP:0000369	NA	15-27
+7677edbc1addf0fdfec89c95bfeccb76	1	NAILS HAIR SKIN: 1cm hyperpigmented macule on lower right back.	HP:0001034	NA	21-42
+76e1e8f1f0c9e2fdfa1c9a5c0636078b	1	HEAD: linear areas of alopecia right posterior scalp	HP:0001596	NA	22-30
+77499ce07336462470360c5987c465e4	1	NOSE: depressed nasal bridge with upturned nares	HP:0005280	NA	6-28
+77499ce07336462470360c5987c465e4	1	NOSE: depressed nasal bridge with upturned nares	HP:0000463	NA	34-48
+77ef6c0219ba1c06456f70ff04d1baab	1	HANDS FEET: positive stemmer sign on the right with scar on foot; texture of skin on the right foot feels thickened; negative stemmer sign on the left	HP:0010741	NA	12-33
+77ef6c0219ba1c06456f70ff04d1baab	1	HANDS FEET: positive stemmer sign on the right with scar on foot; texture of skin on the right foot feels thickened; negative stemmer sign on the left	HP:0001072	NA	77-115
+77ef6c0219ba1c06456f70ff04d1baab	1	HANDS FEET: positive stemmer sign on the right with scar on foot; texture of skin on the right foot feels thickened; negative stemmer sign on the left	HP:0100699	NA	52-56
+77ff4cbb22f10a6db95d4d1c797601b1	1	ABDOMEN: Left abdominal wall hernia, fully reducible.	HP:0100790	NA	14-35
+7a64db02f1f0c8e4063b38cb956cc21a	1	EYES: Narrow palpebral fissures (1.5cm b/l), long lashes. Telecanthus.	HP:0045025	NA	6-31
+7a64db02f1f0c8e4063b38cb956cc21a	1	EYES: Narrow palpebral fissures (1.5cm b/l), long lashes. Telecanthus.	HP:0000527	NA	45-56
+7a64db02f1f0c8e4063b38cb956cc21a	1	EYES: Narrow palpebral fissures (1.5cm b/l), long lashes. Telecanthus.	HP:0000506	NA	58-69
+7ae1b94609f80755e9f7e6740e1d8df6	2	EARS: Left preauricular pit	HP:0004467	NA	11-27
+7b8584de54fe8354a1673638e11ef2c3	1	SPINE: shallow sacral dimple, base visible, no scolisosis	HP:0000960	NA	15-28
+7b8584de54fe8354a1673638e11ef2c3	1	SPINE: shallow sacral dimple, base visible, no scolisosis	HP:0002650	X	44-57
+7b9eb1e0af60bb0ddc32c4464a59fc56	1	NOSE: dimpled nasal tip	HP:0004132	NA	6-23
+7c88f58935c6a065bf2d908f027dda38	2	CHEST: Pectus carinatum	HP:0000768	NA	7-23
+7d7fb9e39d10eb28acb6de374efac14f	1	CHEST: tanner stage 3	NA	NA	NA
+7e326782bff385056ed9fb3f8983ddfe	1	MOUTH: Prognathism, open occlusion	HP:0000303	NA	7-18
+7e326782bff385056ed9fb3f8983ddfe	1	MOUTH: Prognathism, open occlusion	HP:0010807	NA	20-34
+7e432adbe1215639efba1d9d86fcf5e1	1	EYES: Normal brows and lids. Epicanthus.	HP:0000286	NA	29-39
+7e432adbe1215639efba1d9d86fcf5e1	1	EYES: Normal brows and lids. Epicanthus.	HP:0000534	X	6-18
+7e432adbe1215639efba1d9d86fcf5e1	1	EYES: Normal brows and lids. Epicanthus.	HP:0000492	X	6-12,23-27
+7e9a8e4b389946d0d2dec0da2b5f9371	1	FACE: small chin	HP:0000331	NA	6-16
+7f15a6c8d2a39ae8ccf7fb8b6663ffa6	1	EARS: Left ear with crumpled, thin helix.	HP:0009901	NA	11-28,35-40
+7f15a6c8d2a39ae8ccf7fb8b6663ffa6	1	EARS: Left ear with crumpled, thin helix.	HP:0009905	NA	30-40
+7f31366c0c4e7ae9678e66e2d608badd	1	NOSE: short nose with full nasal tip	HP:0003196	NA	6-16
+7f31366c0c4e7ae9678e66e2d608badd	1	NOSE: short nose with full nasal tip	HP:0005274	NA	12-36
+7f6f0af3689e81288659e2fa11df1854	1	NOSE: Downturned corners of nose.	HP:0000429	NA	6-32
+7fab157f85c23b04bc4d386ec2f92fcd	1	NOSE: Broad nasal tip. Bifid columella.	HP:0000455	NA	6-21
+7fab157f85c23b04bc4d386ec2f92fcd	1	NOSE: Broad nasal tip. Bifid columella.	HP:0009929	NA	23-38
+8040d78b1b81a8b322efebbf5ae1d531	1	EXTREMITIES: Contractures of lower legs.	HP:0005750	NA	13-39
+80a655608fca0510054fc8ce0e1f5eff	1	ABDOMEN: Easily reducible umbilical hernia coming through 1.5cm abdominal wall defect.	HP:0001537	NA	26-42
+80a655608fca0510054fc8ce0e1f5eff	1	ABDOMEN: Easily reducible umbilical hernia coming through 1.5cm abdominal wall defect.	HP:0010866	NA	64-85
+80c5cfaadafe9756292885f6e9a3bded	1	FACE: Facial asymmetry when crying.	HP:0000324	NA	6-22
+818f3a1411279ea5ad304f7563f860c2	1	HEAD: appropriate for 5 months but largest measurement overall.	NA	NA	NA
+81db1438f840f8e8e81990f3f64c40a5	1	EARS: Small, low set and posterior rotation	HP:0008551	NA	0-4,6-11
+81db1438f840f8e8e81990f3f64c40a5	1	EARS: Small, low set and posterior rotation	HP:0000368	NA	0-4,13-43
+8271333a8557adafb1af714148d68cd5	1	HEAD: slight prominence of forehead with temporal narrowing	HP:0011220	NA	13-35
+8271333a8557adafb1af714148d68cd5	1	HEAD: slight prominence of forehead with temporal narrowing	HP:0000341	NA	41-59
+830d939b2a69c43da9e86a72d9fad244	1	MOUTH: Soft palate cleft, thin lips, no lip pits	HP:0000185	NA	7-24
+830d939b2a69c43da9e86a72d9fad244	1	MOUTH: Soft palate cleft, thin lips, no lip pits	HP:0000233	NA	26-35
+830d939b2a69c43da9e86a72d9fad244	1	MOUTH: Soft palate cleft, thin lips, no lip pits	HP:0100267	X	37-48
+8490952570e62bc556d844a29c33dc12	1	EARS: L ear helix appear slightly thin.	HP:0009905	NA	12-38
+85275deaeb4fe891242097c62780d66a	1	HEAD: frontal bossing more prominent on R side - mild positional plagiocephaly on R	HP:0002007	NA	6-21
+85275deaeb4fe891242097c62780d66a	1	HEAD: frontal bossing more prominent on R side - mild positional plagiocephaly on R	HP:0001357	NA	65-78
+855491b0e93581c4f5bdcbfb0b01d5cb	1	HANDS FEET: Mild sandal gap deformity bilaterally. Metatarsus adductus bilaterally. Right hand with two palmar creases. Left hand covered by peripheral IV line.	HP:0001852	NA	17-27
+855491b0e93581c4f5bdcbfb0b01d5cb	1	HANDS FEET: Mild sandal gap deformity bilaterally. Metatarsus adductus bilaterally. Right hand with two palmar creases. Left hand covered by peripheral IV line.	HP:0001840	NA	51-70
+872e4f449111d0d3cf88ea49528abce0	1	HANDS FEET: pes planus, slight bilateral genu valgum, generalized joint laxity	HP:0001763	NA	12-22
+872e4f449111d0d3cf88ea49528abce0	1	HANDS FEET: pes planus, slight bilateral genu valgum, generalized joint laxity	HP:0002857	NA	41-52
+872e4f449111d0d3cf88ea49528abce0	1	HANDS FEET: pes planus, slight bilateral genu valgum, generalized joint laxity	HP:0002761	NA	54-78
+8837fc63e0c915ff57800219f01e250c	1	EARS: R ear overfolded.	HP:0000396	NA	8-22
+88580bdd4752170103a4e37ced2451d8	1	MOUTH: I think philtrum looks normal. Upper lip definitely normal. Widely spaced teeth	HP:0000288	X	15-36
+88580bdd4752170103a4e37ced2451d8	1	MOUTH: I think philtrum looks normal. Upper lip definitely normal. Widely spaced teeth	HP:0000687	NA	67-86
+88580bdd4752170103a4e37ced2451d8	1	MOUTH: I think philtrum looks normal. Upper lip definitely normal. Widely spaced teeth	HP:0000177	X	38-65
+88951459c0fbf339e06c68d19855b246	1	HEAD: Normal size with normal hairline. Has prominent occiput. Head circumference is 35cm	HP:0000269	NA	44-61
+88951459c0fbf339e06c68d19855b246	1	HEAD: Normal size with normal hairline. Has prominent occiput. Head circumference is 35cm	HP:0009553	X	23-38
+88951459c0fbf339e06c68d19855b246	1	HEAD: Normal size with normal hairline. Has prominent occiput. Head circumference is 35cm	HP:0000240	X	0-4,6-17
+8b5a87b72bb2a3c032783635021ef35d	1	EARS: posteriorly rotated, thickened helix, preauricaular tag on the left	HP:0000358	NA	0-4,6-25
+8b5a87b72bb2a3c032783635021ef35d	1	EARS: posteriorly rotated, thickened helix, preauricaular tag on the left	HP:0000391	NA	27-42
+8b5a87b72bb2a3c032783635021ef35d	1	EARS: posteriorly rotated, thickened helix, preauricaular tag on the left	HP:0000384	NA	44-61
+8b732e57494ae7b411517aadc63f16ad	1	NOSE: Upturned nose, depressed nasal bridge	HP:0000463	NA	6-19
+8b732e57494ae7b411517aadc63f16ad	1	NOSE: Upturned nose, depressed nasal bridge	HP:0005280	NA	21-43
+8cea6d0acfb2dd40e332ba6243f216ff	1	HANDS FEET: Brachydactyly with fullness at the fingertips. Bilateral 5th digit clinodactyly. Proximally placed thumbs. Broad toes with hypoplastic toenails.	HP:0001156	NA	12-25
+8cea6d0acfb2dd40e332ba6243f216ff	1	HANDS FEET: Brachydactyly with fullness at the fingertips. Bilateral 5th digit clinodactyly. Proximally placed thumbs. Broad toes with hypoplastic toenails.	HP:0004209	NA	69-91
+8cea6d0acfb2dd40e332ba6243f216ff	1	HANDS FEET: Brachydactyly with fullness at the fingertips. Bilateral 5th digit clinodactyly. Proximally placed thumbs. Broad toes with hypoplastic toenails.	HP:0001800	NA	135-155
+8cea6d0acfb2dd40e332ba6243f216ff	1	HANDS FEET: Brachydactyly with fullness at the fingertips. Bilateral 5th digit clinodactyly. Proximally placed thumbs. Broad toes with hypoplastic toenails.	HP:0001837	NA	119-129
+8cea6d0acfb2dd40e332ba6243f216ff	1	HANDS FEET: Brachydactyly with fullness at the fingertips. Bilateral 5th digit clinodactyly. Proximally placed thumbs. Broad toes with hypoplastic toenails.	HP:0009623	NA	93-117
+8dad5963193be76cc58077a518993725	4	NECK: Short neck	HP:0000470	NA	6-16
+8e355961421395701e69817bfc7db2a7	1	MOUTH: Poor dentition with widely spaced teeth, prominent maxilla	HP:0000687	NA	27-46
+8e355961421395701e69817bfc7db2a7	1	MOUTH: Poor dentition with widely spaced teeth, prominent maxilla	HP:0430028	NA	48-65
+8e355961421395701e69817bfc7db2a7	1	MOUTH: Poor dentition with widely spaced teeth, prominent maxilla	HP:0000164	NA	7-21
+8f2fe3c4bf66ceaec4ce288210be35de	1	MOUTH: Small upper incisors with widely spaced teeth	HP:0000691	NA	7-27
+8f2fe3c4bf66ceaec4ce288210be35de	1	MOUTH: Small upper incisors with widely spaced teeth	HP:0000687	NA	33-52
+8f559d435ffed9f4727724cdb2842b00	1	EYES: hooded eyes	HP:0030820	NA	6-17
+8fbf14e84780a842203bf97e0568313f	1	NEUROLOGIC: Anxious around clinician.	NA	NA	NA
+8ff70eed5ecac2f7da3648d09aa44fa3	1	NEUROLOGIC: Moderate hypotonia.	HP:0001252	NA	21-30
+9153ca43e9765d5e448062add7e415cc	1	HANDS FEET: 2nd toe overlaps the 3rd on the right	HP:0001845	NA	12-36
+916c3ef0ba918bf51ffa0971444486f6	1	FACE: Elongated face with prominent forehead.	HP:0000276	NA	6-20
+916c3ef0ba918bf51ffa0971444486f6	1	FACE: Elongated face with prominent forehead.	HP:0011220	NA	26-44
+93bfbf6c0278afb7cd7fbe4b280ed6fc	1	HEAD: Temporal narrowing	HP:0000341	NA	6-24
+94cd45491e3ecc455e11a490e79b7ef0	1	NECK: No webbing, cysts or pits	HP:0000465	X	0-4,6-16
+94cd45491e3ecc455e11a490e79b7ef0	1	NECK: No webbing, cysts or pits	HP:0009796	X	0-4,6-8,18-23
+95741598433463c4f4ff09231e63cc95	1	HEAD: Relative macrocephaly with high anterior hairline	HP:0004482	NA	6-27
+95741598433463c4f4ff09231e63cc95	1	HEAD: Relative macrocephaly with high anterior hairline	HP:0009890	NA	33-55
+9611bc7fae5a00112a4654a110734e67	1	EYES: Normal lids and lashes. Sparse medial brows noted. Slight down-slanting palpebral fissures.	HP:0025325	NA	30-49
+9611bc7fae5a00112a4654a110734e67	1	EYES: Normal lids and lashes. Sparse medial brows noted. Slight down-slanting palpebral fissures.	HP:0000494	NA	64-96
+96cd6c05efef5d2ed926fda7c32dc96f	1	EARS: Squared ears. L ear pit. No post-auricular pits.	HP:0030026	NA	6-18
+96cd6c05efef5d2ed926fda7c32dc96f	1	EARS: Squared ears. L ear pit. No post-auricular pits.	HP:0030025	NA	22-29
+96cd6c05efef5d2ed926fda7c32dc96f	1	EARS: Squared ears. L ear pit. No post-auricular pits.	HP:0004464	X	31-53
+974b887b3b75c82c99297c4de1be7524	1	CHEST: scar just above the right clavicle	HP:0100699	NA	7-11
+97d7dbaa7734d3540ed6df4706f1468b	1	HANDS FEET: Bilateral 5th finger clinodactyly. Fetal finger pads.	HP:0004209	NA	22-45
+97d7dbaa7734d3540ed6df4706f1468b	1	HANDS FEET: Bilateral 5th finger clinodactyly. Fetal finger pads.	HP:0001212	NA	47-65
+97e6eeeee35970b5cfd11804da393e61	1	HEAD: turribrachycephaly with frontal bossing; HC <1% for age	HP:0002007	NA	30-45
+97e6eeeee35970b5cfd11804da393e61	1	HEAD: turribrachycephaly with frontal bossing; HC <1% for age	HP:0000252	NA	47-61
+97e6eeeee35970b5cfd11804da393e61	1	HEAD: turribrachycephaly with frontal bossing; HC <1% for age	HP:0000244	NA	6-24
+983f8f481904eeef8e5fb77b5eb80385	1	SPINE: Mild scoliosis with Y-shaped gluteal cleft, shallow/well-defined base.	HP:0002650	NA	12-21
+985acef8f024905477c8a20da77cb44c	1	EARS: Low-set, posteriorly rotated, and squared off ears bilaterally.	HP:0000368	NA	6-34,52-56
+985acef8f024905477c8a20da77cb44c	1	EARS: Low-set, posteriorly rotated, and squared off ears bilaterally.	HP:0030026	NA	40-56
+98efc7b14382ce50e0be7216809ac824	1	HEAD: Increased wrinkles of the forehead, nevus simplex on the forehead nose and lips	HP:0009762	NA	16-40
+98efc7b14382ce50e0be7216809ac824	1	HEAD: Increased wrinkles of the forehead, nevus simplex on the forehead nose and lips	HP:0001052	NA	42-55,72-85
+98efc7b14382ce50e0be7216809ac824	1	HEAD: Increased wrinkles of the forehead, nevus simplex on the forehead nose and lips	HP:0007413	NA	42-71
+9986e407c3dd11db8a047abbb78ad06b	1	GENITALIA: Edematous genitalia.	HP:0031188	NA	11-30
+99be773cadaf1eaf182cdd8fb921acb1	1	NOSE: mild depressed nasal bridge and bulbous nose	HP:0005280	NA	11-33
+99be773cadaf1eaf182cdd8fb921acb1	1	NOSE: mild depressed nasal bridge and bulbous nose	HP:0000414	NA	38-50
+99fb76e8ef50479df5e22a8511071695	1	NEUROLOGIC: with head lag	HP:0032988	NA	17-25
+9a0581d5444f4b74cdbb1d3d03d57c96	1	MOUTH: no telangiectasias	HP:0000228	X	0-5,7-25
+9a1b6c74185883b05bc9f0eac9981cb9	1	MOUTH: Very High Palate, down turned corners of the mouth, Long Philtrum, Chin Dimple	HP:0000218	NA	12-23
+9a1b6c74185883b05bc9f0eac9981cb9	1	MOUTH: Very High Palate, down turned corners of the mouth, Long Philtrum, Chin Dimple	HP:0002714	NA	25-57
+9a1b6c74185883b05bc9f0eac9981cb9	1	MOUTH: Very High Palate, down turned corners of the mouth, Long Philtrum, Chin Dimple	HP:0000343	NA	59-72
+9a1b6c74185883b05bc9f0eac9981cb9	1	MOUTH: Very High Palate, down turned corners of the mouth, Long Philtrum, Chin Dimple	HP:0010751	NA	74-85
+9bf1a6fb3da9411594625aefc09631ee	1	HANDS FEET: 2,3 syndactyly bilaterally and macrodactyly; tapered fingers; negative Stemmer sign on feet bilaterally	HP:0004691	NA	11-26
+9bf1a6fb3da9411594625aefc09631ee	1	HANDS FEET: 2,3 syndactyly bilaterally and macrodactyly; tapered fingers; negative Stemmer sign on feet bilaterally	HP:0001182	NA	57-72
+9bf1a6fb3da9411594625aefc09631ee	1	HANDS FEET: 2,3 syndactyly bilaterally and macrodactyly; tapered fingers; negative Stemmer sign on feet bilaterally	HP:0004099	NA	43-55
+9c81574d44560b69819296d9e8e53ef7	1	ABDOMEN: Umbilical line in place. No hepatomegaly appreciated.	HP:0002240	X	34-49
+9c9defc704a48171c40f2e1c224969f4	1	ABDOMEN: Significant abdominal distension appreciated. Normal appearing umbilicus.	HP:0003270	NA	21-41
+9c9defc704a48171c40f2e1c224969f4	1	ABDOMEN: Significant abdominal distension appreciated. Normal appearing umbilicus.	HP:0001551	X	55-81
+9ceafc66d0c2a5d41bb8617a88d565b9	1	EYES: Arched eyebrows, mild up-slant, long eyelash	HP:0002553	NA	6-21
+9ceafc66d0c2a5d41bb8617a88d565b9	1	EYES: Arched eyebrows, mild up-slant, long eyelash	HP:0000527	NA	38-50
+9ceafc66d0c2a5d41bb8617a88d565b9	1	EYES: Arched eyebrows, mild up-slant, long eyelash	HP:0000582	NA	0-4,28-36
+9d10eae67a0bae92eba00bd871442979	1	NOSE: Prominent nasal tip	HP:0005274	NA	6-25
+9da8ffae2090a1b402e214efade8ff4f	1	FACE: Round face shape with prominent cheeks and sloping forehead.	HP:0000311	NA	6-16
+9da8ffae2090a1b402e214efade8ff4f	1	FACE: Round face shape with prominent cheeks and sloping forehead.	HP:0000293	NA	28-44
+9da8ffae2090a1b402e214efade8ff4f	1	FACE: Round face shape with prominent cheeks and sloping forehead.	HP:0000340	NA	49-65
+9ee36635fd42f18e61ff6759647a3d49	1	EARS: slightly low set ears with uplifted ear lobes	HP:0000369	NA	15-27
+9ee36635fd42f18e61ff6759647a3d49	1	EARS: slightly low set ears with uplifted ear lobes	HP:0009909	NA	33-51
+9f845da5152d4dd596aef630d46b1dc9	1	HANDS FEET: No-no on left arm, PICC on left leg. Right arm/leg without syndactyly or polydactyly.	HP:0001159	X	63-81
+9f845da5152d4dd596aef630d46b1dc9	1	HANDS FEET: No-no on left arm, PICC on left leg. Right arm/leg without syndactyly or polydactyly.	HP:0010442	X	63-70,85-96
+9fa5c929896d2e3d25f7ac100b1081a2	1	NECK: Limited visualization.	NA	NA	NA
+a131eedf148840ca29aaeaa8dfa0c455	1	HANDS FEET: Deep palmar and plantar creases	HP:0006191	NA	12-23,36-43
+a131eedf148840ca29aaeaa8dfa0c455	1	HANDS FEET: Deep palmar and plantar creases	HP:0001869	NA	12-16,28-43
+a15594975f09f5ede6dbc161cfc76561	1	EARS: Fleshy ear lobes bilaterally. Squared off left ear helix.	HP:0009748	NA	6-22
+a15594975f09f5ede6dbc161cfc76561	1	EARS: Fleshy ear lobes bilaterally. Squared off left ear helix.	HP:0030026	NA	36-62
+a1661b78c3852fd5e87fd23147c41454	3	SPINE: Mild scoliosis	HP:0002650	NA	12-21
+a1b6f91e995dd25b02031835344dcd7b	1	GENITALIA: No inguinal freckling.	HP:0030052	X	11-32
+a1fb766c6adb0fca9c98b6adebda7387	1	GENERAL APPEARANCE: Critically ill neonate, intubated.	NA	NA	NA
+a2242fa77968ce4da558243b84cc2480	2	NOSE: prominent nasal allae	HP:0000429	NA	6-27
+a28677df4d1129add544628317c45c2c	1	EYES: Blue irises.	HP:0000635	NA	6-17
+a337763ad5cef1c51b72f3faf238fb23	1	EARS: Posteriorly placed ears, with prominent ear folds	HP:0000357	NA	6-29
+a337763ad5cef1c51b72f3faf238fb23	1	EARS: Posteriorly placed ears, with prominent ear folds	HP:0008544	NA	36-55
+a33f437df83e97b03857e0ad3ba7584d	1	CHEST: appropriately healed thoracotomy scar	HP:0100699	NA	40-44
+a5299fb9313c54a9f00e233893e784ca	1	HANDS FEET: 2-4 syndactyly bilateral feet with overriding 2nd toe; L hand with overfolded thumb and finger contractures; R hand with splint and what appears to be proximally placed thumb; rockerbottom feet	HP:0010714	NA	12-41
+a5299fb9313c54a9f00e233893e784ca	1	HANDS FEET: 2-4 syndactyly bilateral feet with overriding 2nd toe; L hand with overfolded thumb and finger contractures; R hand with splint and what appears to be proximally placed thumb; rockerbottom feet	HP:0012785	NA	100-119
+a5299fb9313c54a9f00e233893e784ca	1	HANDS FEET: 2-4 syndactyly bilateral feet with overriding 2nd toe; L hand with overfolded thumb and finger contractures; R hand with splint and what appears to be proximally placed thumb; rockerbottom feet	HP:0009623	NA	163-186
+a5299fb9313c54a9f00e233893e784ca	1	HANDS FEET: 2-4 syndactyly bilateral feet with overriding 2nd toe; L hand with overfolded thumb and finger contractures; R hand with splint and what appears to be proximally placed thumb; rockerbottom feet	HP:0001838	NA	188-205
+a5299fb9313c54a9f00e233893e784ca	1	HANDS FEET: 2-4 syndactyly bilateral feet with overriding 2nd toe; L hand with overfolded thumb and finger contractures; R hand with splint and what appears to be proximally placed thumb; rockerbottom feet	HP:0001845	NA	47-65
+a5521ced62c5ad705d71ef938d71e02b	1	FACE: preacuriclar red violaceous rash with drain in place	HP:0000988	NA	34-38
+a5679ae8ab0b80f2f4b2cc3f7dba0d86	1	EARS: overfolded left ear	HP:0000396	NA	6-25
+a5a31cc44b05df6aa3aac835e0469356	1	MOUTH: wide spaced teeth; intact palate; tongue normal; prominent lips	HP:0000687	NA	7-24
+a5a31cc44b05df6aa3aac835e0469356	1	MOUTH: wide spaced teeth; intact palate; tongue normal; prominent lips	HP:0012471	NA	56-70
+a601fdde172d9a61f8c5330c42e46660	1	HEAD: Normal size, slight priminence of metopit ridge	HP:0005487	NA	26-53
+a7dbc635fa3ff06c8ddc1da00df9f0c6	1	EARS: Normally placed. Mildly posteriorly rotated.	HP:0000358	NA	0-4,30-49
+a90411dabd1f2d546ffb249dc4ecc065	1	EARS: Preauricular tag on left.	HP:0000384	NA	6-22
+a98b60c7251a35f890db974389cb223f	1	HANDS FEET: Long fingers. Right palm = 5.4 cm; Right middle finger = 4.1 cm; right foot = 11.4 cm	HP:0100807	NA	12-24
+a9b764337a43ee41b873b15aa88be3aa	1	HANDS FEET: Deep creases of the hands and feet	HP:0001869	NA	12-31,42-46
+a9b764337a43ee41b873b15aa88be3aa	1	HANDS FEET: Deep creases of the hands and feet	HP:0006191	NA	12-37
+a9d318819b6a964ff939a75e09275a54	1	HANDS FEET: Broad fingertips. Mild 5th digit clinodactyly b/l. Left middle finger 4.5cm (25%ile), palm 7cm (50%ile). Right middle finger 5cm (50%ile), palm 7cm (50%ile).	HP:0011300	NA	12-28
+a9d318819b6a964ff939a75e09275a54	1	HANDS FEET: Broad fingertips. Mild 5th digit clinodactyly b/l. Left middle finger 4.5cm (25%ile), palm 7cm (50%ile). Right middle finger 5cm (50%ile), palm 7cm (50%ile).	HP:0030084	NA	45-57
+a9d3b0a1cd0e37fdd64689e2a936d302	1	EARS: Slightly upturned earlobes	HP:0009909	NA	15-32
+aa3f5a8d28855e390ff0576baf923eaa	1	ABDOMEN: Easily reducible umbilical hernia.	HP:0001537	NA	26-42
+aab8e06c4ec6c7403ac29c510699bffa	1	MOUTH: Slight high palate.	HP:0000218	NA	14-25
+aad29b767caa60d033a0e6ef7c519c19	1	HEAD: Bitemporal Narrowing	HP:0000341	NA	6-26
+ab44f41f2d2dbc45ceb9fd8845be8d37	1	EXTREMITIES: Clear LUE deformity with ulnar hypoplasia, Abnormal rotational movements, three fingers of L hand. Appears to be L digits 1,2,3	HP:0003022	NA	38-54
+abec34a4111053486853048486e93801	1	EARS: Small and low set	HP:0000369	NA	0-4,16-23
+abec34a4111053486853048486e93801	1	EARS: Small and low set	HP:0008551	NA	0-4,6-11
+ac977c5b98b8559c39cb8dc06a32bd82	1	NEUROLOGIC: Hypotonic faces. DTRs brisk in the upper extremities. DTRs 4+ in the lower extremities with 2 beats of clonus at the knees and 4 or more beats of clonus at the ankles.	HP:0000297	NA	12-27
+ac977c5b98b8559c39cb8dc06a32bd82	1	NEUROLOGIC: Hypotonic faces. DTRs brisk in the upper extremities. DTRs 4+ in the lower extremities with 2 beats of clonus at the knees and 4 or more beats of clonus at the ankles.	HP:0001348	NA	29-39
+ac977c5b98b8559c39cb8dc06a32bd82	1	NEUROLOGIC: Hypotonic faces. DTRs brisk in the upper extremities. DTRs 4+ in the lower extremities with 2 beats of clonus at the knees and 4 or more beats of clonus at the ankles.	HP:0002395	NA	66-98
+ac977c5b98b8559c39cb8dc06a32bd82	1	NEUROLOGIC: Hypotonic faces. DTRs brisk in the upper extremities. DTRs 4+ in the lower extremities with 2 beats of clonus at the knees and 4 or more beats of clonus at the ankles.	HP:0011449	NA	115-134
+ac977c5b98b8559c39cb8dc06a32bd82	1	NEUROLOGIC: Hypotonic faces. DTRs brisk in the upper extremities. DTRs 4+ in the lower extremities with 2 beats of clonus at the knees and 4 or more beats of clonus at the ankles.	HP:0011448	NA	158-178
+aca2148a22181f553bb8fbc89743f945	1	GENERAL APPEARANCE: Friendly and conversant. Short stature.	HP:0004322	NA	45-58
+acbf688cd745f55d4dc22928d3044c5d	1	EYES: Hyperteloric. Up-turned palpebral fissures	HP:0000582	NA	20-48
+acbf688cd745f55d4dc22928d3044c5d	1	EYES: Hyperteloric. Up-turned palpebral fissures	HP:0000316	NA	6-18
+ad991f26f2a7710c72c86cd917430be6	1	GENITALIA: Tanner stage 1.	NA	NA	NA
+adb79e5d4aace2ac9799d81cc1321012	1	FACE: Progeria-like face with small chin, inverted triangular shape	HP:0005328	NA	6-24
+adb79e5d4aace2ac9799d81cc1321012	1	FACE: Progeria-like face with small chin, inverted triangular shape	HP:0000331	NA	30-40
+adb79e5d4aace2ac9799d81cc1321012	1	FACE: Progeria-like face with small chin, inverted triangular shape	HP:0000325	NA	51-67
+ae4da62b0cfac94f08da45d5c9f0f7d2	1	EARS: Slight squared off top helices	HP:0030026	NA	6-36
+aec915dc9188dbb1b042b0c7fc7d0730	1	GENITALIA: Scars from inguinal hernia repair.	HP:0100699	NA	11-16
+aec915dc9188dbb1b042b0c7fc7d0730	1	GENITALIA: Scars from inguinal hernia repair.	HP:0000023	NA	22-37
+af3a6fc2d4ac8220fd4df704b30a1ffd	1	EYES: blue irises	HP:0000635	NA	6-17
+b0e9322486a6fef1d3f3a48f0fbc7c38	1	NAILS HAIR SKIN: Hypoplastic fingernails and toenails	HP:0001804	NA	17-40
+b0e9322486a6fef1d3f3a48f0fbc7c38	1	NAILS HAIR SKIN: Hypoplastic fingernails and toenails	HP:0001800	NA	17-28,45-53
+b1933a79362f0a9d559ec56b12bc1ff6	1	EARS: bilateral preauricular pits	HP:0004467	NA	16-33
+b20b6956e043a823cf779a7ecbd3889e	1	NOSE: Short and upturned	HP:0003196	NA	0-4,6-11
+b20b6956e043a823cf779a7ecbd3889e	1	NOSE: Short and upturned	HP:0000463	NA	0-4,16-24
+b22cadb3a1af0b460ab91da9b5604711	1	ABDOMEN: reducible umbilical hernia, GT in place with slight redness around sight	HP:0001537	NA	19-35
+b22cadb3a1af0b460ab91da9b5604711	1	ABDOMEN: reducible umbilical hernia, GT in place with slight redness around sight	HP:0033454	NA	37-48
+b2566c26ea16815f628ace6c4f6f5343	1	NOSE: Upturned nasal tip, normal nasal bridge	HP:0000463	NA	6-24
+b2566c26ea16815f628ace6c4f6f5343	1	NOSE: Upturned nasal tip, normal nasal bridge	HP:0000422	X	26-45
+b2ecb489ef68169d20dc7228dffbf84c	3	NECK: no excess nuchal skin	HP:0000474	X	6-27
+b2f637716fc6c4bf5dbad7d7c23ade45	1	EYES: Blue sclera, Long eyelashes, sparse eyebrows laterally	HP:0000592	NA	6-17
+b2f637716fc6c4bf5dbad7d7c23ade45	1	EYES: Blue sclera, Long eyelashes, sparse eyebrows laterally	HP:0000527	NA	19-33
+b2f637716fc6c4bf5dbad7d7c23ade45	1	EYES: Blue sclera, Long eyelashes, sparse eyebrows laterally	HP:0005338	NA	35-60
+b3b7afef7c5c4acd3f9446f7762c7495	1	NEUROLOGIC: Awakens for examination, diffusely hypotonic, no tracking or focusing	HP:0001290	NA	37-56
+b430570aa59598ab61ec72c940ffdc23	1	HEAD: Dolicocephally	HP:0000268	NA	6-20
+b473f89e54c99ea4a50547bfe5dc672c	1	HANDS FEET: Contractures of 3rd and 4th digits with absent distal interphalangeal creases. Lateral deviation of bilateral toes	HP:0009319	NA	12-31,40-46
+b473f89e54c99ea4a50547bfe5dc672c	1	HANDS FEET: Contractures of 3rd and 4th digits with absent distal interphalangeal creases. Lateral deviation of bilateral toes	HP:0009274	NA	12-26,36-46
+b473f89e54c99ea4a50547bfe5dc672c	1	HANDS FEET: Contractures of 3rd and 4th digits with absent distal interphalangeal creases. Lateral deviation of bilateral toes	HP:0100500	NA	91-126
+b473f89e54c99ea4a50547bfe5dc672c	1	HANDS FEET: Contractures of 3rd and 4th digits with absent distal interphalangeal creases. Lateral deviation of bilateral toes	HP:0001032	NA	52-89
+b473f89e54c99ea4a50547bfe5dc672c	1	HANDS FEET: Contractures of 3rd and 4th digits with absent distal interphalangeal creases. Lateral deviation of bilateral toes	HP:0005780	NA	36-89
+b4e4bd80e3b0bde4c5bb2684a44d63df	1	EYES: narrow palpebral fissures; horizontal slant; right iris slightly lighter brown compared to left	HP:0045025	NA	6-31
+b4e4bd80e3b0bde4c5bb2684a44d63df	1	EYES: narrow palpebral fissures; horizontal slant; right iris slightly lighter brown compared to left	HP:0200064	NA	51-101
+b5a7a7852985b05028457abec06fd49d	1	EYES: Mildly prominent infraorbital creases	HP:0100876	NA	13-43
+b6276e8f8cb8b965b479a8bc448d7074	1	HANDS FEET: Normal hands/digits. Overlapping toes on right.	HP:0001845	NA	33-49
+b81b67f3c58ccb6feac36a070033aa46	1	HANDS FEET: Long toes and long fingers	HP:0100807	NA	26-38
+b81b67f3c58ccb6feac36a070033aa46	1	HANDS FEET: Long toes and long fingers	HP:0010511	NA	12-22
+b849fa65b720f655b4e3e01837061e93	1	HANDS FEET: 5th finger clinodactyly bilaterally. Two palmar creases bilaterally.	HP:0004209	NA	12-35
+b849fa65b720f655b4e3e01837061e93	1	HANDS FEET: 5th finger clinodactyly bilaterally. Two palmar creases bilaterally.	HP:0000954	X	49-67
+b8d4f08921b4cf36138572a8a827b65f	1	HEAD: Head circumference was measured to be 38.5cm at the bedside. Hypertrichosis on forehead.	HP:0032313	NA	67-93
+b9358f1d5d97993fe1062573024675b9	1	HEAD: dolichocephalic, flattened sinciput	HP:0000268	NA	6-21
+b9358f1d5d97993fe1062573024675b9	1	HEAD: dolichocephalic, flattened sinciput	HP:0004425	NA	23-41
+b99214be6bef0b9c2d3c42efb49e1f18	1	GENERAL APPEARANCE: Sleeping comfortably but reactice to tactile stimuli.	NA	NA	NA
+bbf1e8d8d1e42f36041fb57b024d7fe7	1	HEAD: Healing surgical scars on scalp. EVD in place.	HP:0100699	NA	23-28
+bc0bb69389f507f71f93d538bc0ab797	1	MOUTH: normal tongue, intact palate, wide mouth with full lips	HP:0000154	NA	37-47
+bc0bb69389f507f71f93d538bc0ab797	1	MOUTH: normal tongue, intact palate, wide mouth with full lips	HP:0012471	NA	53-62
+bc0bb69389f507f71f93d538bc0ab797	1	MOUTH: normal tongue, intact palate, wide mouth with full lips	HP:0000174	X	22-35
+bc0bb69389f507f71f93d538bc0ab797	1	MOUTH: normal tongue, intact palate, wide mouth with full lips	HP:0000157	X	7-20
+bcbf5f306e9c1d5c4ffd03a1499537c6	1	HANDS FEET: Hands with two creases, mild clinodactyly bilaterally. Long appearing fingers. Feet with sandal gap bilaterally.	HP:0000954	NA	12-34
+bcbf5f306e9c1d5c4ffd03a1499537c6	1	HANDS FEET: Hands with two creases, mild clinodactyly bilaterally. Long appearing fingers. Feet with sandal gap bilaterally.	HP:0040019	NA	12-22,41-53
+bcbf5f306e9c1d5c4ffd03a1499537c6	1	HANDS FEET: Hands with two creases, mild clinodactyly bilaterally. Long appearing fingers. Feet with sandal gap bilaterally.	HP:0100807	NA	67-89
+bcbf5f306e9c1d5c4ffd03a1499537c6	1	HANDS FEET: Hands with two creases, mild clinodactyly bilaterally. Long appearing fingers. Feet with sandal gap bilaterally.	HP:0001852	NA	91-111
+bcccb677902233232df9d20764ec9a05	2	HANDS FEET: Mild 5th finger clinodactyly.	HP:0004209	NA	17-40
+bef11fd1f4c6c07c7d016c1e1a5b5892	1	HANDS FEET: long, thin fingers	HP:0001238	NA	18-30
+bef11fd1f4c6c07c7d016c1e1a5b5892	1	HANDS FEET: long, thin fingers	HP:0100807	NA	12-16,23-30
+bf4832d5fd922133f77905b721933a91	1	GENERAL APPEARANCE: Resting comfortably. High-pitched cry with stimulation.	HP:0025430	NA	41-57
+c024c4e84b791e42f4e759fea82382c6	1	NAILS HAIR SKIN: Sparse lateral eyebrows. Striae on the hips and medial arms.	HP:0005338	NA	17-40
+c024c4e84b791e42f4e759fea82382c6	1	NAILS HAIR SKIN: Sparse lateral eyebrows. Striae on the hips and medial arms.	HP:0001065	NA	42-48
+c0313ce785c9bc9a3cd8757e89aa195c	1	HANDS FEET: Long fingers, long feet (right foot 8.5cm)	HP:0100807	NA	12-24
+c0313ce785c9bc9a3cd8757e89aa195c	1	HANDS FEET: Long fingers, long feet (right foot 8.5cm)	HP:0001833	NA	26-35
+c0eea6eb581a8fab26c3971d0686977a	1	HANDS FEET: hypoplastic toenails; small great toe on right; 2-3 cutaneous syndactyly L foot	HP:0001800	NA	12-32
+c0eea6eb581a8fab26c3971d0686977a	1	HANDS FEET: hypoplastic toenails; small great toe on right; 2-3 cutaneous syndactyly L foot	HP:0010109	NA	34-49
+c0eea6eb581a8fab26c3971d0686977a	1	HANDS FEET: hypoplastic toenails; small great toe on right; 2-3 cutaneous syndactyly L foot	HP:0005709	NA	60-91
+c123950c1a42dcee06f74db519deee98	1	FACE: full cheeks; midface obstructed by ETT	HP:0000293	NA	6-17
+c200e85bc9c6e7e57887baadc8941e78	1	MOUTH: Bilateral cleft lip and palate, complete through R nostril	HP:0002744	NA	7-37
+c2b8677947f43b7ac2f3fa562060eefb	1	EYES: Right sided esotropia.	HP:0000565	NA	18-27
+c2e1c1f0212c2781cac354ca32908e4a	1	HANDS FEET: 4 toes on left foot with scar; macrodactyly of 2-3 on the right foot	HP:0100699	NA	37-41
+c2e1c1f0212c2781cac354ca32908e4a	1	HANDS FEET: 4 toes on left foot with scar; macrodactyly of 2-3 on the right foot	HP:0004099	NA	43-55
+c3108a1f70aeb4b43ae60e1f7ddb9275	3	HANDS FEET: Long fingers	HP:0100807	NA	12-24
+c426b86e8bc9697a171a0cab71ba5596	1	ABDOMEN: firm slightly distended abdomen	HP:0003270	NA	23-40
+c562de17cdc1668c74e61419f43edc5d	1	MOUTH: High arched palate. Widely spaced teeth.	HP:0000218	NA	7-25
+c562de17cdc1668c74e61419f43edc5d	1	MOUTH: High arched palate. Widely spaced teeth.	HP:0000687	NA	27-46
+c576a95cf534fb728963c12b7159b846	1	HANDS FEET: Bilateral mild 2/3 syndactyly	HP:0001159	NA	31-41
+c7b5462dccc8af0ee080a524e723b57a	1	EARS: Hypoplastic crumpled upper helices	HP:0004453	NA	18-40
+c7b5462dccc8af0ee080a524e723b57a	1	EARS: Hypoplastic crumpled upper helices	HP:0008559	NA	6-17,27-40
+c81e9850d0f422ee3a46153b8051419d	1	CHEST: nipples appear wide	HP:0006610	NA	7-26
+c8bade6e2bec41cce51610fae41e7268	1	MOUTH: deep philtrum	HP:0002002	NA	7-20
+c9886a6bc139cd7c894a837c718368ee	1	GENITALIA: right undescended testes. diaper rash with sattelite lesions	HP:0000988	NA	44-48
+c9886a6bc139cd7c894a837c718368ee	1	GENITALIA: right undescended testes. diaper rash with sattelite lesions	HP:0012741	NA	11-35
+c9b0fbaf68ef72406ca88b8893c0ac76	1	EYES: Esotropia, disconjugate gaze	HP:0000565	NA	6-15
+c9b0fbaf68ef72406ca88b8893c0ac76	1	EYES: Esotropia, disconjugate gaze	HP:0000549	NA	17-34
+c9b607713e7e60a6f94450496a840626	1	HANDS FEET: Mild 2,3,4 toe syndactyly bilaterally	HP:0010714	NA	17-37
+ca276ab5901644b9e00c87e057a72b58	1	SPINE: three areas on right back that are soft and elevated and feels warmer than left side without any pulsations; small capillary malformation	HP:0025104	NA	122-144
+cc69247e1eff2d40326f991b7d0926fa	1	EXTREMITIES: Hyperextensibility of the knees bilaterally. Possible to sublux the right shoulder.	HP:0010500	NA	13-44
+cc69247e1eff2d40326f991b7d0926fa	1	EXTREMITIES: Hyperextensibility of the knees bilaterally. Possible to sublux the right shoulder.	HP:0003835	NA	58-95
+cc9e44861cdee7a7c4ddb09501e5e228	1	GENITALIA: right testicle in canal. penile-scrotal webbing	HP:0012741	NA	11-34
+cc9e44861cdee7a7c4ddb09501e5e228	1	GENITALIA: right testicle in canal. penile-scrotal webbing	HP:0030264	NA	36-58
+cca2b3c19429d285b5ecfb104e35230e	1	MOUTH: thin upper lip with accentuated cupids bow with downturned corners of the mouth	HP:0000219	NA	7-21
+cca2b3c19429d285b5ecfb104e35230e	1	MOUTH: thin upper lip with accentuated cupids bow with downturned corners of the mouth	HP:0002263	NA	27-49
+cca2b3c19429d285b5ecfb104e35230e	1	MOUTH: thin upper lip with accentuated cupids bow with downturned corners of the mouth	HP:0002714	NA	55-86
+cd13498fb01a4a4b5c8a25b606052656	1	FACE: Mild bitemporal narrowing with hypertrichosis of forehead/temples.	HP:0000341	NA	11-31
+cd13498fb01a4a4b5c8a25b606052656	1	FACE: Mild bitemporal narrowing with hypertrichosis of forehead/temples.	HP:0000998	NA	37-51
+cd962047e747d07d2481f9b30c42c80c	1	EARS: Prominent and slightlyt cupped bilaterally.	HP:0000411	NA	0-4,6-15
+cd962047e747d07d2481f9b30c42c80c	1	EARS: Prominent and slightlyt cupped bilaterally.	HP:0000378	NA	0-4,30-36
+cdda4d3e875dd8af307385f6b71ea380	1	HANDS FEET: fifth finger clinodactyly on the right	HP:0004209	NA	12-37
+ce3b2b6ad6694c603d6d4b5ee517fe88	2	CHEST: breast Tanner Stage: III	NA	NA	NA
+ce7b7bf463959688cf4d6f26465102f1	1	NOSE: broad tip, prominent	HP:0000455	NA	0-4,6-15
+ce7b7bf463959688cf4d6f26465102f1	1	NOSE: broad tip, prominent	HP:0000448	NA	0-4,17-26
+cec28e11f2f1339486567417d4f9b0d3	1	HANDS FEET: deep plantar creases	HP:0001869	NA	12-32
+cfb85f88530b2bc56707a04c855dc7f9	1	HANDS FEET: clubbing of the toe nails	HP:0100760	NA	12-31
+d01c812aa0169b47271a72c47270cca3	1	NEUROLOGIC: Mild axial hypotonia versus lower limit of normal for age.	HP:0008936	NA	17-32
+d021a7a4f209bf9101fc7fa49aecfedc	1	MOUTH: Widely separated, smaller sized teeth.	HP:0000691	NA	25-44
+d021a7a4f209bf9101fc7fa49aecfedc	1	MOUTH: Widely separated, smaller sized teeth.	HP:0000687	NA	7-23,39-44
+d03ed35b64ee1bf01b0bec319122bff4	1	MOUTH: 3-4 pinpoint telangiectatic spots over the lower lip	HP:0000214	NA	20-59
+d0c9ad9cc681444f220d4e1241e4b3ba	1	NOSE: Anteverted Nostrils	HP:0000463	NA	6-25
+d2bb61d10e89ded9f78277a1748d81dd	1	HANDS FEET: b/l clinodactyly	HP:0030084	NA	16-28
+d37405372197d95b071b99f660f7fed3	1	NEUROLOGIC: sits well without support, moves extremities, calls to mamam	NA	NA	NA
+d4a96198bac81292ad7034f24828b79f	1	EYES: slight hooding of eyes bilaterally	HP:0030820	NA	13-40
+d5709bedcdc8d47041bd8535b82b85bd	1	SPINE: lower back with two pin point scar from bone marrow biopsy	HP:0100699	NA	37-41
+d732021d9ceb991dabf8af1cdf1293df	1	HANDS FEET: Deep palmar creases	HP:0006191	NA	12-31
+d75ff659f0daf0ed087348045155666b	1	EARS: Ear asymmetry, likely secondary to plagiocephally with the right low set.	HP:0010722	NA	6-19
+d75ff659f0daf0ed087348045155666b	1	EARS: Ear asymmetry, likely secondary to plagiocephally with the right low set.	HP:0001357	NA	41-55
+d75ff659f0daf0ed087348045155666b	1	EARS: Ear asymmetry, likely secondary to plagiocephally with the right low set.	HP:0000369	NA	0-4,71-78
+d7fccd956e53fb619ec57f2d997e2707	1	MOUTH: macroglossia, single uvula, normal teeth	HP:0000158	NA	7-19
+d7fccd956e53fb619ec57f2d997e2707	1	MOUTH: macroglossia, single uvula, normal teeth	HP:0000172	X	21-33
+d7fccd956e53fb619ec57f2d997e2707	1	MOUTH: macroglossia, single uvula, normal teeth	HP:0000164	X	35-47
+d9443ee068020ca6586993c80a07e447	1	EARS: Overfolded superior helix on the right; unable to visualize the left due to CPAP	HP:0000396	NA	6-31
+d9abd644c83c64b31571a66d1fec707e	1	GENITALIA: unable to retract testes	NA	NA	NA
+da3c8516e85a1b337967a32a467d6c38	1	NAILS HAIR SKIN: scar on back from biopsy	HP:0100699	NA	17-21
+db1b29370d21bcbea53973d9eadf9d13	1	SPINE: Asymmetry of the posterior superior ischial spines without scoliosis	HP:0002650	X	58-75
+db1b29370d21bcbea53973d9eadf9d13	1	SPINE: Asymmetry of the posterior superior ischial spines without scoliosis	HP:0010453	NA	7-57
+dc4cae2d13898c96b7c0a26575147564	1	SPINE: not eamined.	NA	NA	NA
+dd0411f75b76fa608ca796ab7c01e155	3	HANDS FEET: Mild 5th digit clinodactyly b/l	HP:0004209	NA	17-39
+dd1d112b8d19575de9a077b4f5147850	1	HANDS FEET: Long fingers bilaterally.	HP:0100807	NA	12-24
+dd275ae55c2b089e0c19625db69ca37b	1	MOUTH: Orally intubated without obvious mouth abnormalities.	HP:0000153	X	24-59
+dd275ae55c2b089e0c19625db69ca37b	1	MOUTH: Orally intubated without obvious mouth abnormalities.	HP:0004887	NA	7-23
+dd7ac984b0910d89d8b64797a6052f7c	1	EXTREMITIES: Rhizomelia of the upper and lower extremities.	HP:0004991	NA	13-36,47-58
+dd7ac984b0910d89d8b64797a6052f7c	1	EXTREMITIES: Rhizomelia of the upper and lower extremities.	HP:0012106	NA	13-30,41-58
+ddbb6eff7455ccd7d5de2c9f8ab9a226	1	HANDS FEET: Pes planus. Subtle 2,3 toe-syndactyly bilaterally, R>L.	HP:0001763	NA	12-22
+ddbb6eff7455ccd7d5de2c9f8ab9a226	1	HANDS FEET: Pes planus. Subtle 2,3 toe-syndactyly bilaterally, R>L.	HP:0004691	NA	31-49
+ddd0f8481c623745330ff38d91ee1c73	1	EXTREMITIES: Shortened right forearm with wrist held in ulnar flexion.	HP:0009821	NA	13-36
+ddd0f8481c623745330ff38d91ee1c73	1	EXTREMITIES: Shortened right forearm with wrist held in ulnar flexion.	HP:0003049	NA	42-69
+ddd0f8481c623745330ff38d91ee1c73	1	EXTREMITIES: Shortened right forearm with wrist held in ulnar flexion.	HP:0012454	NA	23-28,42-55,62-69
+dec921616f2b27a043059d1dab82092c	1	MOUTH: No teeth yet.	NA	NA	NA
+df1bffec734f0bdaaab1a3a4642fca94	1	NAILS HAIR SKIN: brown raised plaques over glabella, right eyelid, down neck, over left chest shoulder and down left arm	HP:0200035	NA	11-15,30-37
+df7815e7ac440fcdb27a6e64dd89eaa4	1	HANDS FEET: left 5th digit clinodactyly, right hand not examined due to IV and no-no with taping in place	HP:0004209	NA	17-39,47-51
+e153e02801be581ba0254dd5ae466fda	1	EYES: Slight epicanthus likely consistent with ethnicity. Brows sparse.	HP:0000286	NA	13-23
+e153e02801be581ba0254dd5ae466fda	1	EYES: Slight epicanthus likely consistent with ethnicity. Brows sparse.	HP:0045075	NA	0-4,58-70
+e1e460bbf118eaaf996d9a87c4937155	1	GENERAL: pleasant.	NA	NA	NA
+e20c9cb5f4a5d7e9c64397b55ad8abfd	3	EYES: Proptosis	HP:0000520	NA	6-15
+e213db8f03bc01083cdda967e9c125e4	1	HANDS FEET: Slight 2-3 syndactyly on the feet	HP:0004691	NA	19-45
+e214bec98c5d556554de038b91924f14	1	CHEST: supernumerary nipples bilaterally	HP:0002558	NA	7-28
+e2a132e8931c584d7ba823836fbd352a	1	MOUTH: purplish red border at edge of lower lip; black and decay in teeth; underneath tongue is red; microcystic areas on tongue; back of throat red;	HP:0000670	NA	59-73
+e2ab8366b8f4b0dbd4993680a92ff08b	1	NEUROLOGIC: Face symmetric. Tone normal.	HP:0000324	X	12-26
+e310a33ddecd8be9bd288e62bf1baf81	1	GENITALIA: Bilateral cryptorchidism. Small phallus.	HP:0008689	NA	11-35
+e310a33ddecd8be9bd288e62bf1baf81	1	GENITALIA: Bilateral cryptorchidism. Small phallus.	HP:0030260	NA	37-50
+e3293e5602f93d9823482677aee55739	1	NAILS HAIR SKIN: red blanchable patches on the left hand; pink blanchable patches on the left arm, left chest, left back	HP:0025104	NA	17-39
+e3293e5602f93d9823482677aee55739	1	NAILS HAIR SKIN: red blanchable patches on the left hand; pink blanchable patches on the left arm, left chest, left back	HP:0025104	NA	58-81
+e3747ec001e7214ceaacba59d9ec4b0a	1	GENERAL APPEARANCE: CPAP mask on face.	NA	NA	NA
+e3d0d900baf1319f440fc6ab519b0837	6	HANDS FEET: fetal finger pads	HP:0001212	NA	12-29
+e46337b456193e0cebd06e94372120b5	1	EARS: Right ear appears normal, left ear has a fleshy helix and folded	HP:0000391	NA	47-59
+e5043730948573dfb8cd9a37e685bda7	1	SPINE: Limited exam in a critically ill infant on mechanical ventilation	HP:0004887	NA	47-72
+e51936313a01f18807a3975891739ad5	1	MOUTH: normal lips and philtrum	HP:0000319	X	7-13,23-31
+e5566e1a8f6c2e5ef437e55f0cea80d0	1	HANDS FEET: mild 2nd digit clinodactyly	HP:0030084	NA	27-39
+e5bae5491fee6f4ff74833dcf95f58fa	1	HEAD: Proportionate microcephaly, posterior plagiocephaly.	HP:0000252	NA	20-32
+e5bae5491fee6f4ff74833dcf95f58fa	1	HEAD: Proportionate microcephaly, posterior plagiocephaly.	HP:0011327	NA	34-57
+e5f8131e424a44e7c8500c9063f6657c	1	FACE: facial plethora and ruddy appearance	HP:0001050	NA	13-21
+e63c38d7f2f32f93f7a256d79ac5ca19	1	EARS: L 4.5; R 4.5, bilateal ear creases	HP:0009908	NA	29-40
+e720e5a417eabd33a9d341468bf775df	1	EYES: Long eyelashes. Arched eyebrows. Palpebral fissures open. Eyes appear widely spaced.	HP:0002553	NA	22-37
+e720e5a417eabd33a9d341468bf775df	1	EYES: Long eyelashes. Arched eyebrows. Palpebral fissures open. Eyes appear widely spaced.	HP:0000527	NA	6-20
+e720e5a417eabd33a9d341468bf775df	1	EYES: Long eyelashes. Arched eyebrows. Palpebral fissures open. Eyes appear widely spaced.	HP:0000316	NA	64-89
+e73569d55bcc4f79c1d906aa5ba21da7	1	EYES: Mild downslant to palpebral fissures	HP:0000494	NA	11-42
+e7a2c5ac02cf2500154b355f320caf9a	1	FACE: elongated oval shape to face	HP:0000276	NA	6-15,21-34
+e823fc2acc7993b9085008db8b576c7e	1	MOUTH: Small mouth, microretrognathia, cleft palate	HP:0000160	NA	7-18
+e823fc2acc7993b9085008db8b576c7e	1	MOUTH: Small mouth, microretrognathia, cleft palate	HP:0000308	NA	20-37
+e823fc2acc7993b9085008db8b576c7e	1	MOUTH: Small mouth, microretrognathia, cleft palate	HP:0000175	NA	39-51
+e83a7b50951e2ee142f38fcc3202d3c6	1	GENITALIA: No penile freckling	HP:0031447	X	11-30
+ec2c9ad4fe2e6d53d00cabcbdee130ab	1	EXTREMITIES: apparent contractures of bilateral LE of hips/knees	HP:0003273	NA	22-34,54-58
+ec2c9ad4fe2e6d53d00cabcbdee130ab	1	EXTREMITIES: apparent contractures of bilateral LE of hips/knees	HP:0006380	NA	22-34,59-64
+ed169a141d714932f79a560a5319e5d1	1	EARS: Slightly posteriorly rotated.	HP:0000358	NA	0-4,15-34
+edc1f01a3334972eee0dc8a4ffb0ab59	1	SPINE: slight deviation of sacral crease, no scoliosis	HP:0002650	X	42-54
+edc1f01a3334972eee0dc8a4ffb0ab59	1	SPINE: slight deviation of sacral crease, no scoliosis	HP:0410260	NA	7-40
+eddce7eb0e17aca68a7640a0bdc80777	1	HEAD: Anterior fontanelle full	NA	NA	NA
+ee5ec5016266afec446fd40fa10dbdde	1	MOUTH: Thin upper lip and wide mouth with down-turned corners, thick lower lip	HP:0000219	NA	7-21
+ee5ec5016266afec446fd40fa10dbdde	1	MOUTH: Thin upper lip and wide mouth with down-turned corners, thick lower lip	HP:0000154	NA	26-36
+ee5ec5016266afec446fd40fa10dbdde	1	MOUTH: Thin upper lip and wide mouth with down-turned corners, thick lower lip	HP:0000179	NA	63-78
+ef1d363f08bb99704032197797883f11	1	MOUTH: gum hypertrophy, deep philtrum	HP:0000212	NA	7-22
+ef1d363f08bb99704032197797883f11	1	MOUTH: gum hypertrophy, deep philtrum	HP:0002002	NA	24-37
+ef45b69b0f6eabfdcadd0a76a9be58c4	1	ABDOMEN: Slightly scaphoid abdomen	HP:0025063	NA	18-34
+efde42796892ea41012d913c0683780c	1	CARDIAC: A complete cardiac evaluation is documented in Cardiology note from shared visit.	NA	NA	NA
+f0f4474297246a203e589e6b614b0ee5	1	HEAD: Prominent forehead. ~3cm vertical abrasion over the forehead	HP:0011220	NA	6-24
+f139b8b7005efc105d9083ce94054831	1	EXTREMITIES: Left leg in red-colored cast. Right tibial torsion. Full range of motion in other extremities.	HP:0100694	NA	49-63
+f1541aa67a34d17363973918f4efd952	1	CHEST: Right chest wall depression with ulcerated soft tissue mass	HP:0000886	NA	13-34
+f1541aa67a34d17363973918f4efd952	1	CHEST: Right chest wall depression with ulcerated soft tissue mass	HP:0200042	NA	40-49
+f1541aa67a34d17363973918f4efd952	1	CHEST: Right chest wall depression with ulcerated soft tissue mass	HP:0031459	NA	50-66
+f1fbe7b54aa76277b61522eca0e5fc16	1	NEUROLOGIC: Appendicular hypertonia, particularly of the distal lower extremities.	HP:0002509	NA	12-35
+f1ff7e5f63b2dab00e21f7b75e319b3a	1	GENERAL: Alert, active and well-nourished, pleasant. Very ticklish.	NA	NA	NA
+f280ae470a96912809d4667f24578f80	3	HANDS FEET: Fetal finger pads	HP:0001212	NA	12-29
+f2e3caa08fbc2b7ea61ef1050a51247f	1	MOUTH: downturned corners of the mouth	HP:0002714	NA	7-38
+f30047145413cd6d0e813c766c93acd6	1	HANDS FEET: Clinodactyly bilaterally. Bilateral 2,3-toe syndactyly of the toes, right>left.	HP:0030084	NA	12-24
+f30047145413cd6d0e813c766c93acd6	1	HANDS FEET: Clinodactyly bilaterally. Bilateral 2,3-toe syndactyly of the toes, right>left.	HP:0004691	NA	48-66
+f32048e5f50157fefeb24ead3a3adc8b	1	HEAD: ~1cm bony prominence over right forehead	NA	NA	NA
+f3a49615360c66af75fa54d9f3448e03	1	EYES: Short and narrow palpebral fissures with telecanthus.	HP:0045025	NA	16-41
+f3a49615360c66af75fa54d9f3448e03	1	EYES: Short and narrow palpebral fissures with telecanthus.	HP:0012745	NA	6-11,23-41
+f3a49615360c66af75fa54d9f3448e03	1	EYES: Short and narrow palpebral fissures with telecanthus.	HP:0000506	NA	47-58
+f3afee4df45776e51aaccfc5ccb7044e	1	EARS: flattened helix on the right; no telangiectases	HP:0001009	X	36-53
+f3afee4df45776e51aaccfc5ccb7044e	1	EARS: flattened helix on the right; no telangiectases	HP:0008577	NA	6-21
+f451e7ac75b59e1c1e5f25d87f5a0a5d	1	HANDS FEET: mild 5th finger clinodactyly	HP:0004209	NA	17-40
+f4ba6b9fb0b0465967613e91f7caeda3	1	HEAD: sparse temporal hair	HP:0004524	NA	6-26
+f634fe40ec3107a08ca614404650773e	1	EYES: deep set eyes with slight hooding, very slight anisicoria	HP:0000490	NA	6-19
+f634fe40ec3107a08ca614404650773e	1	EYES: deep set eyes with slight hooding, very slight anisicoria	HP:0009916	NA	53-63
+f634fe40ec3107a08ca614404650773e	1	EYES: deep set eyes with slight hooding, very slight anisicoria	HP:0030820	NA	0-4,20-39
+f6519ee64e9a795d1fdb2ad77dc7acd2	1	EYES: [PERSONALNAME] with swollen eyelids  likely due to CPAP mask.	HP:0100540	NA	26-41
+f65bce1b0b79fc783ebdf8c871f1e86e	1	EARS: low set, posteriorly rotated ears with flattened outer helix	HP:0000369	NA	6-13,35-39
+f65bce1b0b79fc783ebdf8c871f1e86e	1	EARS: low set, posteriorly rotated ears with flattened outer helix	HP:0000358	NA	15-39
+f65bce1b0b79fc783ebdf8c871f1e86e	1	EARS: low set, posteriorly rotated ears with flattened outer helix	HP:0008577	NA	45-66
+f683ad1c401ebef965cae52827c39c66	1	HANDS FEET: hallux valgus, short 5th fingers with clinodactyly bilaterally, tapered fingers; short 5th toes	HP:0001822	NA	12-25
+f683ad1c401ebef965cae52827c39c66	1	HANDS FEET: hallux valgus, short 5th fingers with clinodactyly bilaterally, tapered fingers; short 5th toes	HP:0009237	NA	27-44
+f683ad1c401ebef965cae52827c39c66	1	HANDS FEET: hallux valgus, short 5th fingers with clinodactyly bilaterally, tapered fingers; short 5th toes	HP:0004209	NA	33-62
+f683ad1c401ebef965cae52827c39c66	1	HANDS FEET: hallux valgus, short 5th fingers with clinodactyly bilaterally, tapered fingers; short 5th toes	HP:0001182	NA	76-91
+f683ad1c401ebef965cae52827c39c66	1	HANDS FEET: hallux valgus, short 5th fingers with clinodactyly bilaterally, tapered fingers; short 5th toes	HP:0011917	NA	93-107
+f68fbdc3e13c9843634f8183eaf65e5b	1	GENERAL APPEARANCE: Developmental delay is obvious, minimally interactive, profound dysmoprhia	HP:0001263	NA	20-39
+f68fbdc3e13c9843634f8183eaf65e5b	1	GENERAL APPEARANCE: Developmental delay is obvious, minimally interactive, profound dysmoprhia	HP:0001999	NA	84-94
+f695bb2845b87626261281f679bf24f7	6	EYES: Hooding of the eyelids bilaterally.	HP:0030820	NA	6-28
+f6c436a3c1962f605a20cde8afdbc2dc	1	EYES: Hooding bilaterally	HP:0010750	NA	0-4,6-13
+f71c5eb441839ebcfee53a3a7fe77548	1	HANDS FEET: Proximally placed right thumb, camptodactyly of right 2nd and 4th digits, dysplastic right fingertips. Left hand in IV board but the 5th digit appear somewhat short.	HP:0009623	NA	12-41
+f71c5eb441839ebcfee53a3a7fe77548	1	HANDS FEET: Proximally placed right thumb, camptodactyly of right 2nd and 4th digits, dysplastic right fingertips. Left hand in IV board but the 5th digit appear somewhat short.	HP:0009540	NA	43-69,78-84
+f71c5eb441839ebcfee53a3a7fe77548	1	HANDS FEET: Proximally placed right thumb, camptodactyly of right 2nd and 4th digits, dysplastic right fingertips. Left hand in IV board but the 5th digit appear somewhat short.	HP:0009276	NA	43-59,74-84
+f71c5eb441839ebcfee53a3a7fe77548	1	HANDS FEET: Proximally placed right thumb, camptodactyly of right 2nd and 4th digits, dysplastic right fingertips. Left hand in IV board but the 5th digit appear somewhat short.	HP:0001211	NA	86-113
+f71c5eb441839ebcfee53a3a7fe77548	1	HANDS FEET: Proximally placed right thumb, camptodactyly of right 2nd and 4th digits, dysplastic right fingertips. Left hand in IV board but the 5th digit appear somewhat short.	HP:0009237	NA	145-176
+f775ee95631e2315c855539f7b40922a	1	EXTREMITIES: pitting edema to mid calf; edema prominent at the ankles	HP:0010741	NA	21-38
+f775ee95631e2315c855539f7b40922a	1	EXTREMITIES: pitting edema to mid calf; edema prominent at the ankles	HP:0010741	NA	40-69
+f82f9d13bd963292255d41765a062e35	1	GENERAL APPEARANCE: Overweight	HP:0025502	NA	20-30
+f8758f3b6b62da8cbd473a1ce42633ec	1	BACK: not tested	NA	NA	NA
+f9cde2dacf6001f9d2bcf62d5d86f06f	3	HANDS FEET: Bilateral 5th finger clinodactyly	HP:0004209	NA	22-45
+fa64ab0098a59dcc71fc193e486229b3	1	GENERAL: well developed, well nourished, no acute distress.	NA	NA	NA
+fb03ad235fd08c962e84fdb6ae5ec1e7	2	EYES: Short palpebral fissures	HP:0012745	NA	6-30
+fb2619bad0dc9c7ba18c76b0698507fa	1	MOUTH: tongue inside mouth	NA	NA	NA
+fb456fb229ccc2e70d3dad45031c779e	1	FACE: myopathic facies	HP:0002058	NA	6-22
+fb45abce219ceb4efd85dfdf060b4311	1	MOUTH: capillary malformation on lip	HP:0031487	NA	7-36
+fbac08839db4d26ff6e344a82f495c5d	1	NAILS HAIR SKIN: no birthmarks/lesions appreciated	HP:0000951	X	17-50
+fd0023e4247b5bae94b7bf6e48f12414	1	MOUTH: Normal lip, high arched palate. Slight asymmetry with right corner of the mouth lower than left	HP:0000218	NA	19-37
+fd0023e4247b5bae94b7bf6e48f12414	1	MOUTH: Normal lip, high arched palate. Slight asymmetry with right corner of the mouth lower than left	HP:0000324	NA	46-55,74-86
+fdb4caadc51b687071581bad71a6ade1	1	GENITALIA: Tanner I.	NA	NA	NA
+fe24adf3c5de43f6135937bba4e74239	1	CHEST: wide spaced nipples; inverted nipples	HP:0006610	NA	7-26
+fe24adf3c5de43f6135937bba4e74239	1	CHEST: wide spaced nipples; inverted nipples	HP:0003186	NA	28-44
+fe676cdd491f66853ceb92f8ee62488a	1	NOSE: Upturned	HP:0000463	NA	0-4,6-14
+ff036564bd31cdabd6c5cf7b5ace5840	1	ABDOMEN: Post Surgical Scar	HP:0100699	NA	23-27
