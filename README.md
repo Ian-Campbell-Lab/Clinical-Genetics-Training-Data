@@ -37,5 +37,5 @@ Note 2: Mentions of findings can span multiple and discontinuous segments of tex
 Note 3: The HPO ontology does not have terms to denote normal findings. As an alternative to this current limitation, when this was possible, we normalized normal findings with the most generic terms of their corresponding key findings in the ontology and negated the findings; when it was not possible, i.e. no generic terms were available to normalize the findings, we just normalized the finding with Not Available (NA).<br>
 Note 4: Not all terms in the HPO are observable during a dysmorphology physical examination and can be ignored by a normalizer. The list of irrelevant terms for the task will be shared with the registered participants.<br>
 
-For more information, see our pre-print here: [PheNorm, a language model normalizer of physical examinations from genetics clinical notes](https://www.medrxiv.org/content/10.1101/2023.10.16.23296894v1)
+For more information, see our pre-print here: [PhenoID, a language model normalizer of physical examinations from genetics clinical notes](https://www.medrxiv.org/content/10.1101/2023.10.16.23296894v2)
 
